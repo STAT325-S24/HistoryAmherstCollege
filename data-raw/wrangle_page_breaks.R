@@ -10,9 +10,15 @@ page_table <- tibble(
 )
 
 curr_chap <- chap01
-for(i in 1:(total_lines -2)) {
-  if (str_detect(curr_chap[i], "^ $") && str_detect(curr_chap[i+1], "^ $") &&
-     str_detect(curr_chap[i+2], "^ $") && str_detect(curr_chap[i+3], "^ $") == FALSE) {
+for(i in 1:(total_lines - 2)) {
+  if (str_detect(curr_chap[i], "^ $") && 
+      str_detect(curr_chap[i+1], "^ $") && 
+      str_detect(curr_chap[i+2], "^ $") && 
+      str_detect(curr_chap[i+3], "^ $") == FALSE &&
+      str_detect(curr_chap[i+4], "^ $"))
+    {
+   print(i)
+    
     curr_first_line <- curr_chap[i+5]
     curr_page_header <- curr_chap[i+3]
     curr_page_number <- str_extract(curr_chap[i+3], "[:digit:]+")
@@ -22,6 +28,7 @@ for(i in 1:(total_lines -2)) {
       page_header = curr_page_header,
       first_line = curr_first_line
     ))
+    
   }
 }
 
