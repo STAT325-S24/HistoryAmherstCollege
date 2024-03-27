@@ -39,7 +39,10 @@ LETTER OF ACCEPTANCE. 389
 The reluctance with which he tore himself away from his peo-  
 ple and the hesitation and anxiety with which he undertook the  
 presidency of Amherst College, will be seen in the following  
-extracts from his letter to the committee of the corporation : l  
+extracts from his letter to the committee of the corporation :
+[This letter is copied in the Records. The Committee were Rev. 
+Joseph S. Clarke, D. D., (Dr. Stearns' classmate,) Hon. Linus 
+Child, and Henry Edwards, Esq.]  
 " No prudent man could think of entering upon an office of so  
 much importance especially in recollection of the honored men,  
 who have heretofore so nobly filled it, and the expectations of  
@@ -71,10 +74,7 @@ ing influence of an overruling Power. I have accordingly come
 to a result which, a few weeks ago, I could hardly have consid-  
 ered among the possibilities, viz : to accept the office you have  
 conferred upon me, and to attempt the high duties it involves.  
- 
-1 This letter is copied in the Records. The Committee were Rev. Joseph S.  
-Clarke, D. D., (Dr. Stearns' classmate,) Hon. Linus Child, and Henry Edwards,  
-Esq.  
+  
  
  
  
@@ -133,7 +133,9 @@ come through a member of the Senior class, and drew from him
 a ready and hearty response.  
  
 The following extract from a letter written by an alumnus of  
-the Class of '61, ] reflects the buoyant, hopeful and kindly feel-  
+the Class of '61, [Rev. J. A. Leach, now of Keene, N. H. 2 
+In a hearing before the Faculty.]
+reflects the buoyant, hopeful and kindly feel-  
 ing of the students in the opening years of the new adminis-  
 tration and exhibits some of the characteristic features of the  
 period: "The Class of '61 entered at a time when the whole  
@@ -164,7 +166,6 @@ beneficial results. And prizes were offered in almost all the de-
 partments. Instead of a few competing for the prizes in decla-  
 mation, nearly every member of the class stood his trial 2 for the  
  
-1 Rev. J. A. Leach, now of Keene, N. H. 2 In a hearing before the Faculty.  
  
  
  
@@ -201,7 +202,9 @@ Donation for the Appleton Cabinet, 1854 $10,000
  
 Donation for the Sweetser Lecture Room, 1855, 1,000  
  
-Donation for the Nineveh Gallery, 1 1857 967  
+Donation for the Nineveh Gallery, 1857 967  
+[Building and contents cost $1,167, of which only $200 was paid 
+out of the College Treasury.]
  
 Subscriptions for East College, 1857, seq. , 5,000  
  
@@ -221,8 +224,6 @@ Subscriptions of Alumni for the Library, 1859, seq., 7,000
  
 Amount carried forward, $71,192  
  
-1 Building and contents cost $1,167, of which only $200 was paid out of the  
-College Treasury.  
  
  
  
@@ -417,7 +418,9 @@ that name), there was not a single Scholarship in existence at
 the commencement of his administration. Eleazar Porter, Esq.,  
 of Hadley, has the honor of establishing the first Scholarship in  
 Amherst College. This was in 1857. The last catalogue shows  
-more than fifty Scholarships 1 in the gift of the College varying  
+more than fifty Scholarships [Over and above the Ministerial 
+Scholarships, by which the income of the Charity  
+Fund is distributed.] in the gift of the College varying  
 in annual income from forty to three hundred dollars each, and  
 distributing each year over four thousand dollars among the stu-  
 dents ; several others (Class Scholarships) are announced as  
@@ -431,9 +434,7 @@ nominal, and were paid out of the College treasury. The first
 regular prizes given by an individual for successive years were  
 given by Joseph Sweetser, Esq., a former resident of Arnherst,  
 but then residing in New York City. These were given under  
- 
-1 Over and above the Ministerial Scholarships, by which the income of the Charity  
-Fund is distributed.  
+    
  
  
  
@@ -498,20 +499,21 @@ Esq., of South Amherst, on " the site of the old church, where
 for thirty years he had attended meeting, where he was baptised  
 and made a profession of religion," and of which he remarked  
 to Dr. Hitchcock, " that if he should desire to leave his name  
-anywhere on earth that would be the spot." * " The building  
-cost five hundred and sixty-seven dollars. It is a small room,  
-but it is probably as large as that in the palace of Nimroud,  
-from which the sculptured slabs were taken." The contents  
-cost some six hundred dollars, 2 their money value is at least as  
-many thousands their value to the College as educators and  
-as memorials, is beyond calculation. The sculptured slabs, six in  
-number, from the palace of Sardanapalus, the seals, cylinders  
-and bricks from Nineveh and Babylon, the coins of gold, silver  
-and copper, a thousand in number, mostly ancient, and com-  
-mencing with those of Alexander the Great, were all procured  
-and sent at great labor and expense by Dr. Henry Lobdell, mis-  
-sionary to Assyria, of the Class of '49, who, in December, 1854,  
-made his sixth visit to Nimroud, in order to dispatch the sculp-  
+anywhere on earth that would be the spot." ["Keminiscences" of 
+Amherst College.] " The building cost five hundred and sixty-seven 
+dollars. It is a small room, but it is probably as large as that 
+in the palace of Nimroud, from which the sculptured slabs were 
+taken." The contents cost some six hundred dollars, [Of which, 
+however, only two hundred dollars was paid out of the College 
+Treasury.] their money value is at least as many thousands their 
+value to the College as educators and as memorials, is beyond 
+calculation. The sculptured slabs, six in number, from the palace 
+of Sardanapalus, the seals, cylinders and bricks from Nineveh and 
+Babylon, the coins of gold, silver and copper, a thousand in number, 
+mostly ancient, and commencing with those of Alexander the Great, 
+were all procured and sent at great labor and expense by Dr. Henry 
+Lobdell, missionary to Assyria, of the Class of '49, who, in December, 
+1854, made his sixth visit to Nimroud, in order to dispatch the sculp-  
 tures, and who died at Mosul, the site of ancient Nineveh, on  
 the 25th day of March, 1855. For the gallery and its contents  
 the College is indebted ultimately and entirely to the agency of  
@@ -520,11 +522,7 @@ mens, raised the money to pay all the expenses, superintended
 the whole business, and in short manifested scarcely less interest  
 in these foot-prints of former generations of men, than in the  
 ichnolites of the pre-Adamic earth in his own cabinet.  
- 
-1 "Keminiscences" of Amherst College.  
- 
-2 Of which, however, only two hundred dollars was paid out of the College  
-Treasury.  
+
  
  
  
@@ -560,7 +558,8 @@ ened brick walls enclosing a heap of smoking ruins. " A pho-
 tograph of the broken, blackened walls, taken some days after,  
 now hangs in the lower west room of the Library, and is the  
 only memorial of one of the greatest catastrophes and one of  
-the greatest blessings the College ever experienced." 1 No in-  
+the greatest blessings the College ever experienced." [President 
+Stearns' Address of Welcome at the Semi-centennial.] No in-  
 considerable part of this blessing, in the estimation of our good  
 President, seems to be the getting rid of old North College  
 " the most unsightly and most uncomfortable structure in the  
@@ -598,8 +597,7 @@ in appearance, so convenient in arrangement, so generously be-
 stowed and so full of invitation to the returning graduate as  
 he comes up from the village to the College grounds ; the other,  
 East College, which the prophets represent as destined to be  
-taken down and rebuilt, or moved bodily to another spot." l  
-1 President Stearns' Address of Welcome at the Semi-centennial.  
+taken down and rebuilt, or moved bodily to another spot." 
  
 The dedication of the two buildings, delayed for several  
 reasons, took place on the 19th of May, 1858. The Trustees  
@@ -620,19 +618,22 @@ lect funds, procure plans, select a site, and erect the building.
 "Subscriptions were obtained by Prof. W. S.Clark, Prof. W.  
 S. Tyler, and some others, to the amount of about five thousand  
 dollars. For the other five thousand dollars the College resorted  
-again to borrowing." l The building was planned by the same  
-architect as Williston Hall and East College Mr. Charles E.  
-Parkes of Boston. President Hitchcock says : " It is massive  
+again to borrowing." [Dr. Hitchcock's " Reminiscences." The 
+Trustees had already borrowed five thousand dollars to supplement 
+the subscriptions for East College. ] The building was planned by 
+the same architect as Williston Hall and East College Mr. Charles 
+E. Parkes of Boston. President Hitchcock says : " It is massive  
 in appearance, without much architectural beauty, though in  
 conformity with architectural rules." To the eye of the writer,  
 it is one of the most beautiful buildings on the College campus.  
 It has the beauty of fitness and the beauty, rare in our day, of  
 a severe simplicity. The builders had the good sense and good  
-taste to return to the use of stone, * instead of brick, in which their  
-example has been followed in all subsequent buildings, and will  
-be followed, we trust, in all coming time. Upon the completion  
-of the building, the name of " Barrett Gymnasium " was given  
-to it, from Dr. Benjamin Barrett of Northampton, who had con-  
+taste to return to the use of stone, [The same that was used in 
+the Library building, viz., the Pelham gneiss or granite.] instead 
+of brick, in which their example has been followed in all subsequent 
+buildings, and will be followed, we trust, in all coming time. Upon 
+the completion of the building, the name of " Barrett Gymnasium " was 
+given to it, from Dr. Benjamin Barrett of Northampton, who had con-  
 tributed liberally towards its erection. Dr. Barrett afterwards  
 put in at his own expense a gallery at the west end, for the con-  
 venience of spectators, and contributed more or less each year  
@@ -642,14 +643,7 @@ he left in his will a legacy of five thousand dollars, the income
 of which is to be annually expended for similar purposes.  
  
 The principal of the Walker building fund (one hundred  
- 
-1 Dr. Hitchcock's " Reminiscences." The Trustees had already borrowed five  
-thousand dollars to supplement the subscriptions for East College.  
- 
-2 The same that was used in the Library building, viz., the Pelham gneiss or  
-granite.  
- 
-26  
+    
  
  
  
@@ -659,15 +653,21 @@ thousand dollars) was filled up in 1864. At a special meeting
 of the Trustees in November, 1866, they appointed a Building  
 Committee of their own number. This committee consisted of  
 President Stearns, Hon. Samuel Williston, Hon. Alpheus Hardy,  
-Hon. Edward B. Gillett, and Samuel Bowles, Esq. 1 The corner-  
-stone of the building was laid on the 10th of June, 1868 ; and  
-it was not till the 20th of October, 1870, that Walker Hall was  
-opened with appropriate ceremonies. Thus, more than six years  
-had elapsed since the money was raised, and more than seven,  
-almost eight years since Dr. Walker made his first offering of  
-twenty thousand dollars, (in January, 1863,) before the edifice  
-was completed and set apart for its scientific uses ; tarn diu Roma  
-condebatur. But it was right and wise to take a long time in  
+Hon. Edward B. Gillett, and Samuel Bowles, Esq. [A committee, 
+consisting of the President, Prof. Snell, Prof. Seelye, Hon. S.  
+Williston and Hon. A. Hardy, was appointed at a special meeting 
+of the Board in Boston, in January, 1863, to procure plans and 
+estimates. But a building that should cost only forty thousand 
+dollars was then contemplated. The plan was afterwards enlarged 
+to meet the enlarging views and the increasing liberality of  
+Dr. Walker.] The cornerstone of the building was laid on the 10th 
+of June, 1868 ; and it was not till the 20th of October, 1870, 
+that Walker Hall was opened with appropriate ceremonies. Thus, 
+more than six years had elapsed since the money was raised, and 
+more than seven, almost eight years since Dr. Walker made his first 
+offering of twenty thousand dollars, (in January, 1863,) before the 
+edifice was completed and set apart for its scientific uses ; tarn 
+iu Roma condebatur. But it was right and wise to take a long time in  
 building a structure that was expected to endure a long while.  
 There was an intrinsic difficulty in uniting and harmonizing so  
 many diverse interests. The whole department of Mathematics  
@@ -689,13 +689,7 @@ Several architects and landscape-gardeners were consulted in
 the settlement of these vexed questions. More than one archi-  
 tect also presented plans for the building. The plan which best  
 satisfied the parties chiefly concerned, and indeed the only plan  
- 
-1 A committee, consisting of the President, Prof. Snell, Prof. Seelye, Hon. S.  
-Williston and Hon. A. Hardy, was appointed at a special meeting of the Board in  
-Boston, in January, 1863, to procure plans and estimates. But a building that  
-should cost only forty thousand dollars was then contemplated. The plan was  
-afterwards enlarged to meet the enlarging views and the increasing liberality of  
-Dr. Walker.  
+  
  
  
  
@@ -1193,12 +1187,12 @@ eight persons as visitors, and from September, 1867, to July 10,
 1868, the number was four thousand seven hundred and ninety-  
 eight, more than one-fourth of whom were ladies ; and the av-  
 erage number of visitors present attach exercise was over ten  
-for both years." * In his Report for 1869-70, the Professor reck-  
+for both years." [See " Physical Culture in Amherst College," 
+a pamphlet by Dr. Nathan Allen, published at the request of the 
+Trustees, 1869.] In his Report for 1869-70, the Professor reck-  
 ons the yearly average of visitors as four thousand seven hundred  
 and eighty-seven. The prize exhibitions which occur once or  
-twice a year, always draw crowds of spectators.  
-1 See " Physical Culture in Amherst College," a pamphlet by Dr. Nathan Allen,  
-published at the request of the Trustees, 1869.  
+twice a year, always draw crowds of spectators.     
  
 In summing up the results of the experiment in 1869, Dr.  
 Allen, to whose professional knowledge and constant supervision  
@@ -1269,7 +1263,8 @@ but at the same time, they may be well considered, the Faculty
 shall be at liberty to make such changes in the plan of instruction  
 herein marked out, as shall meet the approval in writing of Rev.  
 Thomas Hill, D. D., the Presidents and Professors of Mathematics  
-of Amherst, Tufts, Williams 1 and Harvard Colleges, the Presi-  
+of Amherst, Tufts, Williams [Williams and Tufts Colleges shared with 
+Amherst in this donation.] and Harvard Colleges, the Presi-  
 dent of the Boston Society of Natural History, and the Professor  
 of Engineering at the Lawrence Scientific School, or of a major-  
 ity of them it being the wish of the donor, that accurate and  
@@ -1280,13 +1275,12 @@ The following paragraph is also characteristic : " In teaching,
 younger persons are to be preferred as teachers of younger  
 classes, but no teacher or tutor is to be employed who is not  
 chosen for his merits, and whose merits have not been proved  
-by rigid examination 2 to consist in part of precise and accurate  
- 
-1 Williams and Tufts Colleges shared with Amherst in this donation.  
- 
-2 It is understood that the unwillingness of the Corporation to subject present  
-incumbents to examination, gave offence to Dr. Walker, and turned him aside from  
-his plan of endowing the Medical Department of Harvard University.  
+by rigid examination [It is understood that the unwillingness 
+of the Corporation to subject present incumbents to examination, 
+gave offence to Dr. Walker, and turned him aside from his plan of 
+endowing the Medical Department of Harvard University.] to consist 
+in part of precise and accurate  
+  
  
  
  
@@ -1690,10 +1684,11 @@ has entirely rearranged and relabeled the Geological Cabinet to
 meet the present demands of that progressive science. It is  
 understood that, with the consent of the founder, the Hitchcock  
 Professorship will henceforth be that of Geology and the related  
-sciences ; and Mr. Emerson will be the Professor. 1 Meanwhile  
+sciences ; and Mr. Emerson will be the Professor. [P. S. At a 
+meeting of the Trustees in Boston, February 7, 1872, the title of 
+the Hitchcock Professorship was changed from that of Geology and 
+Natural Theology] Meanwhile  
  
-1 P. S. At a meeting of the Trustees in Boston, February 7, 1872, the title of the  
-Hitchcock Professorship was changed from that of Geology and Natural Theology  
  
  
  
@@ -1713,8 +1708,9 @@ Library. Prof. E. Hitchcock, Jr., became Curator of the Cab-
 inet. The clerical members of the Faculty dispensed with the  
 small stipend for preaching which they had been accustomed to  
 receive almost from the beginning of the service in the chapel,  
-some one else performed the Registrar's duties 1 without pay,  
-and each officer undertook some extra work in this division  
+some one else performed the Registrar's duties [Making out the 
+rank and keeping the record of each student's standing.] without 
+pay, and each officer undertook some extra work in this division  
 of labor. After a year or two when the crisis was passed, this  
 arrangement for the most part ceased. But from that day to  
 this, the curatorship of the Zoological and Ichnological Cab-  
@@ -1738,8 +1734,7 @@ The history of our Scientific departments in this period would
 be incomplete, if we should not include in it some reference to  
  
 to that of Geology and Zoology ; and Benjamin K. Emerson was elected to the pro-  
-fessorship.  
-1 Making out the rank and keeping the record of each student's standing.  
+fessorship.   
  
  
  
@@ -1752,7 +1747,9 @@ one of the god-fathers of the Institution. His Geological Sur-
 veys of the State, his Report on the Agricultural Schools of  
 Europe, the Professorship of Agriculture which existed for a  
 short time as a branch of the Department of Science in Amherst  
-College, * were all preparatory steps towards its establishment.  
+College,[Rev. J. A. Nash was nominally Professor of Agriculture 
+from 1852 to 1856. The appointment however was little more than 
+nominal.] were all preparatory steps towards its establishment.  
 In one of her wills which was superseded, Miss Sophia Smith of  
 Hatfield provided an endowment for a Department or School  
 of Agriculture in Amherst College. Prof. Clark's agency in  
@@ -1782,8 +1779,6 @@ has received directly or indirectly from Amherst and Amherst
 College. How much benefit Amherst College has derived in  
 turn and will derive from the Agricultural College is not so  
  
-1 Rev. J. A. Nash was nominally Professor of Agriculture from 1852 to 1856.  
-The appointment however was little more than nominal.  
  
  
  
@@ -1876,9 +1871,9 @@ gestions on this subject " made by the President and more fully
 developed by Prof. Tyler and the Examining Committee in their  
 several Reports " received the special attention of the Board at  
 their annual meeting in 1857, and, approved by them, were grad-  
-ually incorporated into the system of instruction. The Tutors l  
- 
-1 The last Tutor so called was in 1865.  
+ually incorporated into the system of instruction. The Tutors 
+[The last Tutor so called was in 1865.]  
+  
  
  
  
@@ -1933,13 +1928,19 @@ as to meet in part at least the popular demand. For a few years
 at the beginning of our history, no provision was made for teach-  
 ing Modern Languages. Before the close of the first decade,  
 French began to be taught. German was introduced about the  
-end of . the first quarter of a century. 1 For some years after this,  
-the student could study only one of these languages, making  
-his option between them, and the language of his choice he  
-could study only for a single term, the last term of Sophomore  
-year. Now the students are all required to study French, making  
-a beginning the third term of Freshman year, and having more  
-or less instruction in it each term of Sophomore year, after  
+end of . the first quarter of a century.
+[Rev. Lyman Colt-man was the first teacher of German here, and 
+the first also who bore the title of Instructor. He was Instructor 
+here from 1844 to 1846. He was afterwards connected with Princeton 
+College, and is now Professor in Lafayette College. He was much 
+esteemed here for his learning and for his genial spirit.]
+For some years after this, the student could study only 
+one of these languages, making his option between them, 
+and the language of his choice he could study only for a 
+single term, the last term of Sophomore year. Now the 
+students are all required to study French, making a beginning 
+the third term of Freshman year, and having more or less 
+instruction in it each term of Sophomore year, after  
 which there are three terms in which they can take French,  
 German, Italian or Spanish as an elective study. Prof. Mon-  
 tague has rendered an important service to the College by plan-  
@@ -1963,11 +1964,7 @@ A growing interest in preaching and a desire for the work of
 the ministry, somewhat quickened, it may be, by some friction in  
 matters pertaining to the Library, led him in 1855 to accept a  
 call to the pastoral office in Nashua, N. H.  
- 
-1 Rev. Lyman Colt-man was the first teacher of German here, and the first also  
-who bore the title of Instructor. He was Instructor here from 1844 to 1846. He  
-was afterwards connected with Princeton College, and is now Professor in Lafayette  
-College. He was much esteemed here for his learning and for his genial spirit.  
+
  
  
  
@@ -1987,14 +1984,15 @@ yielded to the remonstrances of his people and never accepted
 the appointment. The professorship thus remained vacant three  
 years, from 1855 to 1858. But the department suffered no se-  
 rious detriment, the duties of the office being ably performed  
-during the interval by Mr. George Rowland * with the title of  
-Instructor.  
+during the interval by Mr. George Rowland [Now Principal of the 
+High School in Chicago.] with the title of Instructor.  
  
 At the annual meeting of the Trustees in 1858, Mr. Edward  
 Payson Crowell, who had been Tutor since 1855, was chosen  
 Professor of the Latin Language and Literature and Instructor  
 in German. Prof. Crowell has now filled the office of Professor  
-of Latin 2 thirteen years with a reputation growing every year  
+of Latin [He ceased to be Instructor in German in 1864.] 
+thirteen years with a reputation growing every year  
 for learning, humor and capacity to teach ; while he is thus  
 elevating the department, he is at the same time becoming  
 known to the public as a scholar and an editor of Latin authors.  
@@ -2012,10 +2010,8 @@ classes.
 Subject to change as usual, the Rhetorical Department has had  
 three different incumbents since Dr. Stearns entered upon the  
 presidency. Rev. Thomas P. Field, of the Class of '34, was  
- 
-1 Now Principal of the High School in Chicago.  
- 
-2 He ceased to be Instructor in German in 1864.  
+    
+   
  
  
  
@@ -2066,9 +2062,10 @@ of the titles of the pieces, while he occupied this important
 PROFESSORSHIP OF RHETORIC. 433  
  
 chair. Ordained as an Evangelist not long after he became  
-Professor, ] by a Council convened by invitation of the College  
-church, he preached with increasing frequency and interest in  
-other churches, and feeling more and more the infelicities of  
+Professor, [He was ordained in 1857. He had previously preached 
+only as a licentiate.] by a Council convened by invitation of the 
+College church, he preached with increasing frequency and interest 
+in other churches, and feeling more and more the infelicities of  
 college life and the attractions of the ministry and the pastoral  
 office, he yielded at length to this growing preference; and the  
 College lost a good Professor, but Providence and Rhode Island  
@@ -2121,7 +2118,7 @@ dered assistance also to Prof. Hitchcock in the gymnasium, thus
 relieving the Professors in two departments which at certain  
 points are somewhat closely related to each other, and both of  
 which involve labors almost without end.  
-1 He was ordained in 1857. He had previously preached only as a licentiate.  
+  
  
 The Professor of Rhetoric and Oratory has received the as-  
 sistance also of a more experienced elocutionist for a limited  
@@ -2161,10 +2158,17 @@ were all his own. The text-books in Mental and Moral Philos-
 ophy which he wrote while he was here, have been widely used  
 in schools and colleges and are well known to the public. A dili-  
 gent student, a good scholar, an acceptable teacher, a popular  
-preacher, a lucid writer and a ready platform speaker, 1 he held a  
-position in the College and the community which might well have  
-satisfied the ambition of anyone. But no sooner had he written  
-and published on the whole range of subjects which he taught,  
+preacher, a lucid writer and a ready platform speaker, [Prof. 
+Haven's platform and after-dinner speeches used to abound in 
+humor and pleasantry. Called on for an after-dinner speech as 
+President of the Alumni at the first Commencement at which 
+President Stearns presided, after many pleasant and complimentary 
+allusions, he closed by saying, " After all I do not see how a 
+ship is to get on Steam foremost." " There is no danger," 
+promptly replied Dr. Stearns " when we are so near the Haven."] 
+he held a position in the College and the community which might 
+well have satisfied the ambition of anyone. But no sooner had he 
+written and published on the whole range of subjects which he taught,  
 than growing weary of the routine, he sought a new field of study  
 and instruction, and accepted the Professorship of Theology in  
 the new Theological Seminary at Chicago.  
@@ -2185,20 +2189,13 @@ ars, Christian ministers, Christian men, is the highest aspiration
 of which their nature is capable. As unlike his predecessor in  
 his method of teaching as in his philosophy, Prof. Seelye has pub-  
 lished nothing in mental or moral science.  
+    
  
-1 Prof. Haven's platform and after-dinner speeches used to abound in humor and  
-pleasantry. Called on for an after-dinner speech as President of the Alumni at the  
-first Commencement at which President Stearns presided, after many pleasant and  
-complimentary allusions, he closed by saying, " After all I do not see how a ship is  
-to get on Steam foremost." " There is no danger," promptly replied Dr. Stearns  
-" when we are so near the Haven."  
- 
-He delivers few writ-  
-ten lectures. Not confining himself to any written or printed  
-form, he is himself the living lecture, the living text-book.  
-Reading everything, and remembering everything that he reads,  
-he communicates the results in a living form to his pupils. Em-  
-bodying in himself all that he would teach, he infuses himself  
+He delivers few written lectures. Not confining himself to any 
+written or printed form, he is himself the living lecture, the 
+living text-book. Reading everything, and remembering everything 
+that he reads, he communicates the results in a living form to his 
+pupils. Embodying in himself all that he would teach, he infuses himself  
 into those who are under his instruction. To this end beside the  
 recitation hour, he sets apart an hour, sometimes hours, daily for  
 conversation with students, counting no amount of time lost  
