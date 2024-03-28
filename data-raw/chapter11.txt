@@ -216,9 +216,10 @@ These general views, derived from the author's own recollec-
 tions of the College in the period under review, he is happy to  
 corroborate by the following just and genial sketch furnished by  
 a contemporary whose praise for learning and missionary service  
-is in all the churches : " Ours was the first class which en-  
-tered after the College charter was granted. 
+is in all the churches :
 [Rev. Elias Riggs, D. D., of the Class of '29.] 
+" Ours was the first class which en-  
+tered after the College charter was granted. 
 The Institution was pervaded by the principles and aims of its pious founders.  
 I think a considerable majority of my class were hopefully pious  
 when we entered, and others were led to Christ during our Col-  
@@ -554,18 +555,18 @@ receive instruction in company, and they will graduate together
 at the termination of the four years' course. This system is ex-  
 pected to go into operation at the commencement of the ensu-  
 ing collegiate year." 
-[1 find in the records of the Faculty at this time, [1827-8] a plan for a fifth year  
+[I find in the records of the Faculty at this time, [1827-8] a plan for a fifth year  
 of study to be added to the curriculum. It never appears to have gone beyond the  
 records, and is mentioned here only to illustrate the large plans and enterprising  
 spirit of the Faculty at this period.]  
  
 At the commencement of the ensuing year, (1827-8) the  
-whole number of students rose from one hundred and seventy   
+whole number of students rose from one hundred and seventy
+[On the catalogue of the preceding year.]
 to two hundred and nine, and the Freshman class, which the  
 previous year contained fifty-one, now numbered sixty-seven, of  
 whom eighteen are set down on the catalogue as students " in  
 Modern Languages."
-[On the catalogue of the preceding year.]
 So far forth the experiment promised well.  
 In regard to the number of students, it was at least a fair begin-  
 ning. But now commenced the difficulties in the execution of  
@@ -692,12 +693,13 @@ public accommodations had become too urgent to be postponed
 without sacrificing the interests of the College. In this emer-  
 gency, the Trustees could not hesitate. They saw but one  
 course, and they promptly empowered the Prudential Com-  
-mittee to contract for the erection of a chapel building," and  
+mittee to contract for the erection of a chapel building,"
+[Dr. Humphrey's dedication sermon.]
+and  
 also a third College edifice, if they deemed it expedient ; at the  
 same time authorizing them to borrow such sums of money, as  
 might be necessary therefor, of the Charity Fund, of banks, or  
 of individuals.  
-[Dr. Humphrey's dedication sermon.]
  
 The work on the chapel was commenced early in the spring  
 of 1826, and so far completed in the course of the season that  
@@ -721,7 +723,7 @@ is meet that we should carefully look over this ground to-da} r ,
 that the inscription may be indelibly engraved on our hearts  
 ' Hitherto hath the Lord helped us.' ' Meanwhile the decision  
 of the Judge of Probate had been reversed, and the will of  
-Adam Johnson established by the Supreme Court.
+Adam Johnson
 [Much handle was made of this will in the speeches of the opposition in the Legislature. And I have before me a pamphlet written in the same spirit by a brother  
 of the testator, entitled, " The Last Will and Testament of Thomas Johnson, of  
 Greenfield, County of Franklin, in favor of the Trustees of Amherst College," in  
@@ -732,6 +734,7 @@ childless old man to perpetuate his name seems to have been his chief inducement
 to make the bequest, and his motive was doubtless skillfully pressed by Col. Graves  
 and Esq. Dickinson. But the verdict of the Supreme Court exculpates them from  
 the charge of any improper or undue influence.]
+established by the Supreme Court.
  
 At the annual meeting of the Board in August, 1828, it was  
 voted that in testimony of their grateful remembrance of his mu-  
@@ -761,11 +764,12 @@ NORTH COLLEGE. 177
  
 basement. These recitation rooms were named after the depart-  
 ments to which they were appropriated, for example, the Greek,  
-Latin, Mathematical and Tablet rooms l on the first floor, and  
+Latin, Mathematical and Tablet rooms
+[So called because the walls were covered with blackboards.]
+on the first floor, and  
 the Rhetorical and Theological rooms on the second, and they  
 were far in advance of the recitation rooms of the older col-  
 leges in size, beauty, and convenience. 
-[So called because the walls were covered with blackboards.]
 The College library  
 was soon removed from the fourth story of North College to  
 the room intended for it in the third story of the chapel, and  
@@ -882,7 +886,7 @@ uted by the Johnson legacy.]
  
 An effort was made to meet this indebtedness at the time by  
 private subscriptions and donations. 
-[It was in this effort that Eev. Mr. Vaill was first appointed agent of the Col-  
+[It was in this effort that Rev. Mr. Vaill was first appointed agent of the Col-  
 lege with a salary of eight hundred dollars, viz., at the annual meeting of the  
 Trustees in August, 1829.]
 But the amount raised in  
@@ -1127,7 +1131,7 @@ lege buildings, thus celebrating with the beginning of a new
 year, what they believed to be a new era in the history of the  
 College.  
  
-u The labor of procuring funds was greater than that of pro-  
+ "The labor of procuring funds was greater than that of pro-  
 curing a charter. It was especially an irksome work, and one  
 for which Dr. Humphrey thought himself poorly fitted. One  
 of the family traditions, however, shows that he had some of  
