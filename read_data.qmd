@@ -1,0 +1,50 @@
+---
+title: "Make RDS"
+author: "Casey Crary"
+date: "2024-03-31"
+date-format: iso
+format: pdf
+editor: source
+---
+
+```{r}
+#| label: setup
+#| include: false
+#library(unsure)
+```
+
+
+```{r}
+write("", "data/output.txt")
+
+process_chapter_data <- function(chapter_name) {
+  to_write_to <- "data/output.txt"
+  file_name <- paste0("data-raw-depaginate/", chapter_name, ".txt")
+  chap_data <- readLines(file_name)
+
+  write(chap_data,file=to_write_to,append=TRUE)
+  write("\n", file=to_write_to, append = TRUE)
+  
+  return(NULL)
+}
+
+for(i in 0:28) {
+  chapter_num <- sprintf("%02d", i)
+  chapter_name <- paste("chapter", chapter_num, "_cleaned", sep="")
+  
+  process_chapter_data(chapter_name)
+}
+
+HistoryAmherstCollege <- readLines("data/output.txt")
+
+
+
+# usethis::use_data(HistoryAmherstCollege, overwrite = TRUE)
+
+
+
+```
+
+
+
+
