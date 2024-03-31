@@ -13,11 +13,13 @@ editor: source
 #library(unsure)
 ```
 
+This file takes all the data from "data-raw-depaginate" (which will be changed to "data-raw-dehyphenate"), and appends all the txt files into one.  Aspirational goal:  make this output an rds file instead.  
 
 ```{r}
-write("", "data/output.txt")
+write("", "data/output.txt")        # create file to output to
 
-process_chapter_data <- function(chapter_name) {
+# appends a given chapter_name onto output.txt
+append_chapter <- function(chapter_name) {
   to_write_to <- "data/output.txt"
   file_name <- paste0("data-raw-depaginate/", chapter_name, ".txt")
   chap_data <- readLines(file_name)
@@ -28,21 +30,20 @@ process_chapter_data <- function(chapter_name) {
   return(NULL)
 }
 
+# does so for all chapters (NOT appendix, needs to be added somehow)
 for(i in 0:28) {
   chapter_num <- sprintf("%02d", i)
   chapter_name <- paste("chapter", chapter_num, "_cleaned", sep="")
   
-  process_chapter_data(chapter_name)
+  append_chapter(chapter_name)
 }
 
+# proof we can then put output.txt into an R object
 HistoryAmherstCollege <- readLines("data/output.txt")
 
 
 
 # usethis::use_data(HistoryAmherstCollege, overwrite = TRUE)
-
-
-
 ```
 
 
