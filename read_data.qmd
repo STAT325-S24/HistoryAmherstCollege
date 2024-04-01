@@ -42,6 +42,19 @@ for(i in 0:28) {
 HistoryAmherstCollege <- readLines("data/output.txt")
 
 
+# makes tibble with line number and chapter number
+hac_tibble <- HistoryAmherstCollege |> tibble()
+
+hac_tibble_mod <- hac_tibble |>
+  rename(text = HistoryAmherstCollege) |>
+  mutate(linenumber = row_number(),
+         chapter = cumsum(
+                  str_detect(text,
+                             regex("^CHAPTER [\\DIVXLC]+",
+                             ignore_case = FALSE))
+                  )
+         )
+hac_tibble_mod
 
 # usethis::use_data(HistoryAmherstCollege, overwrite = TRUE)
 ```
