@@ -1,0 +1,33 @@
+---
+title: "Wrangling Page Breaks & Subtitles"
+format: pdf
+---
+
+### Last Run:
+`r Sys.time()`
+
+
+```{r, include = FALSE}
+library(tidyverse)
+library(stringr)
+```
+
+```{r page_break_function, warning = FALSE}
+setwd("~/Documents/GitHub/HistoryAmherstCollege/")
+source("data-raw/wrangle_page_breaks.R")
+
+for(i in 0:28) {
+  chapter_num <- sprintf("%02d", i)
+  chapter_name <- paste("chapter", chapter_num, sep="")
+  
+  table <- process_chapter_data(chapter_name)
+  
+  print(chapter_name)
+  print(table, n = 100)
+  
+}
+```
+
+
+
+
