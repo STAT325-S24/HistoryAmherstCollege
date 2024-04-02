@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The History of Amherst College",
+    "section": "",
+    "text": "Here is some more text and a link: book_info.qmd.\n\n\nHere is even more text and another link: data_info.qmd."
+  },
+  {
+    "objectID": "index.html#heading-2",
+    "href": "index.html#heading-2",
+    "title": "The History of Amherst College",
+    "section": "",
+    "text": "Here is even more text and another link: data_info.qmd."
+  },
+  {
+    "objectID": "book_info.html",
+    "href": "book_info.html",
+    "title": "Book Info",
+    "section": "",
+    "text": "This is some book info."
+  },
+  {
+    "objectID": "data_info.html",
+    "href": "data_info.html",
+    "title": "Data Info",
+    "section": "",
+    "text": "This data is XX."
+  }
+]
