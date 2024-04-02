@@ -2,8 +2,28 @@ library(tidyverse)
 library(stringr)
 
 
+path <- getwd()
+preprocess_chapter <- function(chapter_name) {
+  chap_data <- readLines(paste0(path, "/", chapter_name, ".txt"))
+  total_lines <- length(chap_data)
+  
+  
+  for(i in 1:(total_lines - 5)) {
+    if (str_detect(chap_data[i], "^ $") && 
+        str_detect(chap_data[i+1], "^ $") && 
+        str_detect(chap_data[i+2], "^ $") && 
+        str_detect(chap_data[i+3], "^ $")) {
+      
+      print(i)
+      
+
+    }
+  }
+}
+
+
 process_chapter_data <- function(chapter_name) {
-  chap_data <- readLines(paste0("data-raw/", chapter_name, ".txt"))
+  chap_data <- readLines(paste0(path, "/", chapter_name, ".txt"))
   total_lines <- length(chap_data)
   
   page_table <- tibble(
@@ -35,11 +55,14 @@ process_chapter_data <- function(chapter_name) {
       ))
     }
   }
-
-  saveRDS(page_table, paste0("page-tables/page_table_", gsub("data-raw/", "", gsub(".txt", "", chapter_name)), ".rds"))
+  
+  saveRDS(page_table, paste0("../page-tables/page_table_", chapter_name, ".rds"))
   
   
-  con <- file(paste0("data-raw-depaginate", "/", gsub("data-raw/", "", gsub(".txt", "", chapter_name)), "_cleaned.txt"), open = "w")
+  
+  file_name <- paste0("../data-raw-depaginate/", chapter_name, "_cleaned.txt")
+   
+  con <- file(file_name, open = "w")
   i <- 1
   while(i <= (total_lines - 5)) {
     if (str_detect(chap_data[i], "^ $") && 

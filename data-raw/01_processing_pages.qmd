@@ -1,5 +1,7 @@
 ---
 title: "Wrangling Page Breaks & Subtitles"
+author: Justin Papagelis (jpapagelis24@amherst.edu)
+date: 4-2-2024
 format: pdf
 ---
 
@@ -13,19 +15,62 @@ library(stringr)
 ```
 
 ```{r page_break_function, warning = FALSE}
-setwd("~/Documents/GitHub/HistoryAmherstCollege/")
-source("data-raw/wrangle_page_breaks.R")
+path <- getwd()
+absolute_path <- paste0(path, "/wrangle_page_breaks.R")
+source(absolute_path)
+
+preprocess_chapter <- function(chapter_name) {
+  chap_data <- readLines(paste0(path, "/", chapter_name, ".txt"))
+  total_lines <- length(chap_data)
+  
+  
+  for(i in 1:(total_lines - 5)) {
+    if (str_detect(chap_data[i], "^ $") && 
+        str_detect(chap_data[i+1], "^ $") && 
+        str_detect(chap_data[i+2], "^ $") && 
+        str_detect(chap_data[i+3], "^ $")) {
+      
+      print(i)
+      
+
+    }
+  }
+}
+
+
+
+for(i in 0:28) {
+  chapter_num <- sprintf("%02d", i)
+  chapter_name <- paste("chapter", chapter_num, sep="")
+  
+  print(chapter_name)
+  
+  preprocess_chapter(chapter_name)
+  
+}
+
+table_full<- tibble(
+    chapter = character(),
+    page_number = integer(),
+    page_header = character(),
+    first_line = character()
+)
 
 for(i in 0:28) {
   chapter_num <- sprintf("%02d", i)
   chapter_name <- paste("chapter", chapter_num, sep="")
   
   table <- process_chapter_data(chapter_name)
+  table <- table |>
+    mutate(chapter = chapter_name)
   
-  print(chapter_name)
-  print(table, n = 100)
+  table_full <- bind_rows(table_full, table)
+  
+  #print(chapter_name)
   
 }
+
+print(table_full, n = 600)
 
 ```
 
