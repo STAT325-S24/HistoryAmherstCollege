@@ -1,0 +1,17 @@
+---
+title: "The History of Amherst College"
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    toc: true
+    toc-location: left
+    
+---
+
+# Heading 1
+Here is some more *text* and a link: [book_info.qmd](book_info.qmd). 
+
+## Heading 2
+
+Here is even more text and another link: [data_info.qmd](data_info.qmd).

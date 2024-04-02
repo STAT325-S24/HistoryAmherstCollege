@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "The History of Amherst College"
+  navbar:
+    left: 
+      -  href: index.qmd
+         text: Home
+      -  href: book_info.qmd
+         text: Book Info
+      -  href: data_info.qmd
+         text: Data Info
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css

@@ -43,7 +43,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# docs/             -- i think i need to remove this from gitignore for website
 
 # translation temp files
 po/*~

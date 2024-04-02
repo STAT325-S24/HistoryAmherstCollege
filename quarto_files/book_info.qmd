@@ -1,0 +1,7 @@
+---
+title: "Book Info"
+page-layout: full
+title-block-banner: true
+---
+
+This is some book info.  
