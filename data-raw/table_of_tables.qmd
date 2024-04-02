@@ -1,0 +1,43 @@
+---
+title: "Makes one table from all chapters"
+author: "Casey Crary"
+date: "2024-04-02"
+date-format: iso
+format: pdf
+editor: source
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(tibble)
+```
+
+
+This file takes all the data from "data-raw-depaginate" (which will be changed to "data-raw-dehyphenate"), and appends all the txt files into one.  Aspirational goal:  make this output an rds file instead.  
+
+```{r}
+# only uses first page of table
+
+# table titles are tentative - need review
+table_of_tables <- tribble(
+  ~pdf_pg, ~book_pg, ~title,
+  15,  9,   "Contents_XX",
+  335, 321, "Misc_Donations_XX",
+  412, 392, "Principal_Donations_XX",
+  493, 465, "Religious_Statistics_Of_The_Class_Of_'69_XX",
+  506, 478, "Day_Book_Expenses_XX_MaybeUnnecessary",
+  649, 607, "Date_And_Cost_Of_Buildings_XX",
+  655, 613, "Cash_Funds_Of_Amherst_College_XX",
+  657, 615, "Library_Numbers_XX",
+  668, 626, "Statistics_Related_To_Student_Count_XX",
+  676, 632, "Society_Timeline_XX",
+  680, 636, "College_Periodicals_XX",
+  688, 644, "Alumni_Occupation_XX",
+  693, 649, "Donors_AppA_XX",
+  699, 655, "Bond_List_XX",
+  701, 657, "Sample_Table_XX"
+)
+
+table_of_tables
+```
