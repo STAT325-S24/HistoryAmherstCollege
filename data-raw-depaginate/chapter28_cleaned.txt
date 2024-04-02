@@ -1,8 +1,6 @@
 CHAPTER XXVIII.  
  
-THEN AND NOW PANORAMIC REVIEW OF CHANGE AND  
- 
-PROGRESS.  
+THEN AND NOW PANORAMIC REVIEW OF CHANGE AND PROGRESS.  
  
 WE have now gone over the successive periods of the history  
 of Amherst College during its first half century, and endeavored  
@@ -12,7 +10,9 @@ readers a better understanding of the growth and progress of
 the Institution and the changes through which it has passed,  
 and will at the same time afford an opportunity of bringing in  
 some things for which we have found no other proper place.  
-We begin with the COLLEGE GROUNDS.  
+We begin with the 
+
+COLLEGE GROUNDS.  
  
 At the time when the first efforts were made for founding a  
 College in Amherst, Col. Elijah Dickinson, a prominent citizen  
@@ -34,7 +34,13 @@ the center and nucleus of the present College grounds. The
 land, conveyed by this deed, comprised "nine acres more or  
 less," and was sold for one thousand one hundred and eighty-  
 seven dollars and fifty cents, a part of which is understood to  
-have gone to pay Col. Dickinson's subscription. 1 On the 7th  
+have gone to pay Col. Dickinson's subscription. 
+[In his report announcing the completion of the fifty thousand dollar subscription,  
+Col. Graves speaks of "the -six acres of land given by Col. Elijah Dickinson." See  
+p. 50. This donation was afterwards modified, I suppose, as stated in the text  
+above. In the vote of the Trustees appointing a Committee to secure the title to  
+the land, it is spoken of as ten acres." See page 62.]
+On the 7th  
 of December, 1827, the widow and heirs of Col. Dickinson fur-  
 ther deeded to the Trustees of the College some two and a half  
 acres more at the east end of the former lot, and a triangular  
@@ -55,7 +61,7 @@ lative Committee in 1824.
 In June, 1828, the Trustees purchased of Dea. John Leland  
 eleven acres more or less on the west side of the highway be-  
 longing originally to the estate of Rev. Dr. Parsons, and includ-  
-ing the old " Parsons' House " with other buildings. This is  
+ing the old "Parsons' House" with other buildings. This is  
 the land on which the President's House, the Library and Col-  
 lege Hall now stand. The sum paid for it was two thousand  
 dollars. It has been squared out by some small pieces not in  
@@ -72,12 +78,6 @@ the purchase on the west side, and enabling them for the first
 time to enclose and extend the grounds as far west as the high-  
 way and to build upon them. This, of course, includes the site  
 of the Octagonal Cabinet and the Observatory.  
- 
-1 In his report announcing the completion of the fifty thousand dollar subscription,  
-Col. Graves speaks of " the -six acres of land given by Col. Elijah Dickinson." See  
-p. 50. This donation was afterwards modified, I suppose, as stated in the text  
-above. In the vote of the Trustees appointing a Committee to secure the title to  
-the land, it is spoken of as ten acres." See page 62.  
  
 In June, 1861, the College purchased of Judge John Dickin-  
 son for one thousand dollars five acres more of the old Col.  
@@ -186,7 +186,7 @@ COST.
  
 1860. Barrett Gymnasium and Fixtures, 15,000  
  
-1868-9. Walker Hall, 1120,000  
+1868-9. Walker Hall, 120,000 [$130,000, including the land.]
  
 1870-2. College Church, 70,000  
  
@@ -214,7 +214,6 @@ peared in a moonlight night by the hands of the students work-
 ing under the guidance of a Tutor ; and in due time not in a  
 hurry, for that would be indecorous not perhaps for some consid-  
 erable time, for the College was poor but sooner or later a bet-  
-ter fence took its place. Faculty and students walked in the  
  
 mud ankle deep over the College grounds and in front of the  
 College buildings every spring, till a kind of corduroy pavement  
@@ -297,7 +296,6 @@ janitor or sub-janitor, yet, for a third of a century, sustained a
 somewhat similar and no less important relation. He kept in  
 repair the locks and keys of all the public and private rooms  
 in College, yes, and of all the trunks, drawers and lockers  
-in the village. He kept the College clock, and all the other  
  
 clocks in town, in running order. He repaired or manufactured  
 apparatus in all the departments as every Professor had need.  
@@ -358,7 +356,9 @@ In accordance with a suggestion made by the Overseers in
 made the basis of Ministerial Scholarships, yielding each bene-  
 ficiary sixty dollars a year, and to a few beneficiaries a larger  
 sum. The original amount of the fund was fifty-one thousand  
-four hundred and four dollars. 1 By the Constitution and By-  
+four hundred and four dollars. 
+[Cf. p. 50.]
+By the Constitution and By-  
 laws in accordance with which the fund is managed, one-sixth  
 of the income is required to be added annually to the principal.  
  
@@ -496,7 +496,12 @@ the basement, would contain forty thousand volumes, which
 was thought to be all the accommodation that would be needed  
 for fifty years. The Library now numbers about twenty-seven  
 thousand volumes, and it not only fills to overflowing the prin-  
-cipal story, but having displaced the reading-room 1 and the  
+cipal story, but having displaced the reading-room
+[The reading-room, containing the principal American and foreign quarterlies,  
+and some of the magazines, is now accommodated on the floor of the upper hall, or  
+Library proper. Besides this the students have a reading-room, containing the  
+newspapers, in North College.]
+and the  
 Trustees' room, is now fast filling the " lower hall " or base-  
 ment, and in a very few years will require an addition, or a new  
 building. Dependent the first twenty years, or more, on sub-  
@@ -513,11 +518,6 @@ salary was forty dollars ! ! At the close of his term of office the
 Library contained only about ten thousand volumes, had no  
 printed or classified catalogue, was opened only once a week for  
 drawing books, and furnished no facilities for reference or read-  
-ing in the room.  
- 
-1 The reading-room, containing the principal American and foreign quarterlies,  
-and some of the magazines, is now accommodated on the floor of the upper hall, or  
-Library proper. Besides this the students have a reading-room, containing the  
  
 With the prospect of a new building and a more rapid increase  
 of books, the Library seemed to require the time and services  
@@ -803,6 +803,8 @@ lady, in one of the adjoining houses, who had attended my lec-
 tures on geology at Amherst, and who testified that I was no  
 more deranged than such men usually are."  
  
+[Uncited footnote: Of tracks on the sidewalks of Greenwich street in New York City.]
+
 Another thing with which one cannot but be struck in read-  
 ing Dr. Hitchcock's Reminiscences of his Cabinets, and also in  
 visiting the Cabinets themselves, is the pains he has taken to  
@@ -822,7 +824,6 @@ by some mysterious cause and those who came after them never
 even attempted to complete the edifice. The Hitchcock Ichno-  
 logical Cabinet, however, is much more than a foundation it is  
 probably a pretty complete collection of the principal genera and  
- 
  
 species as they exist in the sandstone of the Connecticut Valley,  
 and the proper work of his successors will be not so much to  
@@ -994,7 +995,9 @@ music, boating, and amusements have risen in far greater pro-
 portion. Then the President's salary was twelve hundred dol-  
 lars, that of a Professor eight hundred, and that of a Tutor  
 four hundred ; now the President's salary is thirty-two hundred  
-dollars, 1 a Professor's twenty-five hundred, and an Instructor's  
+dollars, 
+[With the perquisites.]
+a Professor's twenty-five hundred, and an Instructor's  
 twelve hundred and fifty. Then the Treasurer's salary was  
 three hundred dollars, now it is two thousand.  
  
@@ -1007,7 +1010,10 @@ by a diagram which presents to the eye a comparative view
 of the state of the College through the half century. The  
 industry and ingenuity which these illustrations exhibit, can  
 hardly fail to suggest to our readers that the author of them is  
-a chip of the old block and deserves the name he bears. 2  
+a chip of the old block and deserves the name he bears.  
+[This ingenuity proved to be too much for the printer, and the diagram, as  
+printed, is shorn of its most striking features.]
+ 
  
  
  
@@ -1404,12 +1410,13 @@ $31 50
 10  
  
  
- 
-2 This ingenuity proved to be too much for the printer, and the diagram, as  
- 
+42 00  
  
  
-Tears.  
+ 
+ 
+ 
+Years.  
  
  
 Seniors. Alumni.  
@@ -2807,7 +2814,9 @@ dispute between the secret and anti-secret Societies. We cannot
 go into the history. It has come up incidentally in former chap-  
 ters. Dr. Hitchcock has well described the causes of the ex-  
 citement, its effects on the College and the action of the Faculty  
-in regard to it. 1 The excitement has now nearly, if not quite  
+in regard to it. 
+[Reminiscences, pp. 320-6.]
+The excitement has now nearly, if not quite  
 passed away. Perhaps the greatest evil now connected with  
 these Societies is the expense which they involve. They are  
 also peculiarly exposed to the temptation to conviviality which  
@@ -2827,11 +2836,6 @@ original sources of every kind with praiseworthy diligence, and
 brought out a mass of curious and entertaining matter, at which  
 I have sometimes been surprised, and which I have not hesi-  
 tated to use when it has suited my purpose, for I helped him in  
- 
- 
- 
- 
-HISTORY OF AMHEEST COLLEGE.  
  
  
  
@@ -2857,7 +2861,7 @@ Delta Kappa Epsilon,
  
 Chi Psi,  
  
-Delta Upsilon, 6 ....  
+Delta Upsilon, [Anti-Secret under different names] ....  
 Alpha Sigma Phi, (Soph.  
  
 Society), 1860  
@@ -2881,10 +2885,8 @@ performing this last office. Rev. Theophilus Packard, Jr., was
 President of the Society from 1844 to 1851, and Prof. Joseph  
 Haven from 1851 to 1858. Since then " one term," and that  
  
-1 Of Alexandria and Athenae answering to the United Fraternity of 1821-5.  
- 
-2 Originally called " Theological Society," and now " Hitchcock Society of In-  
-quiry." 3 A Missionary Society, see p. 276. 4 Suppressed for a season in 1835, see  
+[Uncited footnote 2: Originally called " Theological Society," and now " Hitchcock Society of Inquiry."]
+
  
 1821 Alexandrian Society, .  
  
@@ -2949,7 +2951,8 @@ ACC.
 1853 Athense,  
  
  
-1853 Social Union, 1 . . .  
+1853 Social Union, [Of Alexandria and Athenae answering to the United Fraternity of 1821-5.]
+. . .  
  
  
 .  
@@ -3003,7 +3006,7 @@ ACC.
 1855  
  
  
-1821 Lutheran Society, 5 . .  
+1821 Lutheran Society, [The first Musical Association.]. .  
  
  
 . 1830  
@@ -3153,7 +3156,10 @@ College was passing, and yet each and all shaped quite as much by
 the idiosyncrasies of the individual students who originated them  
 or conducted them from year to year. Perhaps the chief interest  
 now in looking over these old periodicals is in noting the names  
-of the editors and contributors. 1 Among them are not a few of  
+of the editors and contributors. 
+[The contributors are anonymous, but the Librarian has entered the names of  
+very many in the copies preserved in the College Library.]
+Among them are not a few of  
 the most honored names in the Catalogue of our Alumni. And  
 yet when the editors are obliged to be almost the sole contribu-  
 tors, as it is said they now are, they pay dearly for their honors.  
@@ -3186,8 +3192,6 @@ COMMENCEMENT, CLASS-DAY, ETC.
  
 It is well known to our readers that formerly Commencement  
 was a holiday, and a high-day, not only for the students and  
- 
-1 The contributors are anonymous, but the Librarian lias entered the names of  
  
 their friends, and the Alumni of this and other Colleges, but for  
  
@@ -3266,9 +3270,9 @@ names of the orators waken memories like Auld Lang Syne.
 The list which lies before me, and which I have taken some  
 pains to collect, though long, is so suggestive that I cannot but  
 put it on record. Making no distinction as to the society before  
-which they spoke, the roll is as follows: 1 William B. Calhoun,  
- 
-1 1 have not been able to make the list complete for the earlier years. The speak-  
+which they spoke, the roll is as follows: 
+[I have not been able to make the list complete for the earlier years. The speak-  
+ers are arranged in the order of the years when they spoke, beginning with 1828.]
  
 John Todd, George Bancroft, G. C. Verplanck, Caleb Gushing,  
 Albert Barnes, D. D. Barnard, George Shepard, Gov. McDow-  
@@ -3387,6 +3391,9 @@ distinguish, but in the view of older graduates do not adorn,
 recent College life, with those which they have superseded  
 with the hazing, the fagging, the breaking of windows, the tar-  
  
+ 
+642 HISTORY OF AMHERST COLLEGE.  
+ 
 ring or freezing up of the bell, the turning of recitation-rooms  
 into sheep-pens or cow-stables, and above all with the mock  
 sacraments and prayer-meetings, the " Ho every one that thirst-  
@@ -3473,7 +3480,9 @@ isters than any other College in New England. Indeed, for the
 half century, beginning with 1815 and ending with 1865, " Am-  
 herst stands at the head in its percentage of ministers ; and in  
 the number of ministers which it has furnished during this  
-period, it is second only to Yale." 1  
+period, it is second only to Yale." 
+[Rev. C. Gushing. See Exercises at the Placing of the Corner-stone of the Col-  
+lege Church.]
  
 The occupations of our Alumni as they are registered in the  
 Semi-Centennial Catalogue, prepared with great care and labor  
@@ -3511,8 +3520,6 @@ medicine, since they have always been distinguished on the Tri-
 ennial Catalogue, while the other occupations which are regis-  
 tered for the first time in the Semi-Centennial Catalogue, are  
 designated only in cases of living Alumni, so that it does not  
- 
-1 Rev. C. Gushing. See Exercises at the Placing of the Corner-stone of the Col-  
  
 show the entire number of lawyers, teachers or other literary  
 men, nor their full proportion to ministers and physicians. At  

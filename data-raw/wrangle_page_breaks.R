@@ -54,12 +54,8 @@ process_chapter_data <- function(chapter_name) {
     }
   }
   close(con)
-}
-
-
-for(i in 0:28) {
-  chapter_num <- sprintf("%02d", i)
-  chapter_name <- paste("chapter", chapter_num, sep="")
   
-  process_chapter_data(chapter_name)
+  return(page_table)
+  
 }
+
