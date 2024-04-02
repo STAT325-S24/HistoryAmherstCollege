@@ -42,17 +42,23 @@ process_chapter_data <- function(chapter_name) {
   con <- file(paste0("data-raw-depaginate", "/", gsub("data-raw/", "", gsub(".txt", "", chapter_name)), "_cleaned.txt"), open = "w")
   i <- 1
   while(i <= (total_lines - 5)) {
-    if (str_detect(chap_data[i+1], "^ $") && 
+    if (str_detect(chap_data[i], "^ $") && 
+        str_detect(chap_data[i+1], "^ $") && 
         str_detect(chap_data[i+2], "^ $") && 
-        str_detect(chap_data[i+3], "^ $") && 
-        str_detect(chap_data[i+4], "^ $") == FALSE &&
-        str_detect(chap_data[i+5], "^ $")) {
+        str_detect(chap_data[i+3], "^ $") == FALSE &&
+        str_detect(chap_data[i+4], "^ $")) {
       i <- i + 5
     } else {
       writeLines(chap_data[i], con)
       i <- i + 1
     }
   }
+
+  writeLines(chap_data[total_lines-4], con)
+  writeLines(chap_data[total_lines-3], con)
+  writeLines(chap_data[total_lines-2], con)
+  writeLines(chap_data[total_lines-1], con)
+  writeLines(chap_data[total_lines], con)
   close(con)
   
   return(page_table)
