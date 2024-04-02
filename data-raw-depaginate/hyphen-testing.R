@@ -1,10 +1,15 @@
+library(testthat)
 library(stringr)
 
 fix_up_lines <- function(file) {
+  file <- "case-01-test.txt"
   path <- getwd()
   chapter_lines <- readLines(paste(path, "/data-raw/", file, sep = "")) 
   n <- length(chapter_lines)
+  print(n)
   for (i in 1 : n) {
+    i = 1
+    print(chapter_lines[i])
     chapter_lines[i] <- str_trim(chapter_lines[i])
     if (str_detect(chapter_lines[i], "-$")) {
       padding <- str_match(chapter_lines[i+1], "[\\w+\\d]+[:punct:]?")
@@ -17,5 +22,9 @@ fix_up_lines <- function(file) {
   return(chapter_lines)
 }
 
-fix_up_lines("chapter10.txt")
+fix_up_lines("case-01-test.txt")
 
+
+test_that("Check commutative property", {
+  expect_identical(fix_up_lines("case-01-test.txt"), "case-01-check.txt")
+})
