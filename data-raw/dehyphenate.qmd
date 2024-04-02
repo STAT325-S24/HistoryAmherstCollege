@@ -17,7 +17,6 @@ fix_up_lines <- function(file) {
   n <- length(chapter_lines)
   for (i in 1 : n) {
     chapter_lines[i] <- str_trim(chapter_lines[i])
-    print(chapter_lines[i])
     if (str_detect(chapter_lines[i], "-$")) {
       next_line <- 1
       if (str_trim(chapter_lines[i+1]) == "") next_line <- 2
