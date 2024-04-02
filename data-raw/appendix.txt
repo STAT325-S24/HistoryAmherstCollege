@@ -2738,29 +2738,20 @@ could not find it. Certificates were indeed brought forward declaring that the f
 was entire and clear. But when the Committee came to the investigation, it was  
 thought best to patch up these subscriptions of women and minors, and a guaran-  
 tee was made out that they should be paid. This was done while the Committee  
-were holding their session in a room of the hotel in Worcester. 1 While the Com-  
+were holding their session in a room of the hotel in Worcester. 
+["This, though a mistake of no importance in itself, may be taken as a specimen of Mr.  
+Fuller's accuracy in the greatest charges which he so vehemently reiterates against the Col-  
+lege. The Committee did not sit at Worcester but at Amherst."]
+While the Com-  
 mittee was sitting, some of the Trustees came out into the bar-room and got this  
-bond of guarantee executed. It was signed by J. E. Minot 2 and Nathan Smith.  
+bond of guarantee executed. It was signed by J. E. Minot 
+["It is not known that any such man as J. E. Minot ever had anything to do with the In-  
+stitution."]
+and Nathan Smith.  
 This Nathan Smith (though he [Mr. Fuller] did not know him and did not wish  
 to) was found to be so infamous that the Legislature struck his name off from the  
-list of Trustees. 3  
- 
-" The whole subscription was basely got up. The whole of this fifty thousand  
-dollars was subscribed for the purpose of removing Williams College to Amherst  
-that was the pretence and the money was given with that design. After it is ob-  
-tained for that purpose, what do these Trustees do? He would not say, they ex-  
-actly put it in their own pockets but they had a kind of ambition they had rather  
-be Presidents, Trustees and Professors than to have others imported perhaps they  
-thought Williams College not hopefully pious enough, and so they made a College  
- 
-1 "This, though a mistake of no importance in itself, may be taken as a specimen of Mr.  
-Fuller's accuracy in the greatest charges which he so vehemently reiterates against the Col-  
-lege. The Committee did not sit at Worcester but at Amherst."  
- 
-2 "It is not known that any such man as J. E. Minot ever had anything to do with the In-  
-stitution."  
- 
-8 " ' This Nathan Smith 'whom to have known would have been so contaminating to Mr.  
+list of Trustees.  
+["'This Nathan Smith 'whom to have known would have been so contaminating to Mr.  
 Fuller's moral purity is Nathaniel Smith, Esq., of Sunderland, who was for many years a  
 member of the General Court; whose integrity, during a long life, will not suffer in compari-  
 son with that of any other man in the community ; who has been the munificent patron not  
@@ -2769,7 +2760,18 @@ of privileged slander is passing the evening of life in the fruition of that ben
 more blessed to give than to receive.' Mr. Fuller forgot to inform the House that this man  
 who ' was found to be so infamous that the Legislature struck his name off from the list of  
 Trustees', is now [1832] one of the five Trustees, appointed by joint ballot of the two Houses,  
-to represent them in the Board and to assist in taking care of the College."  
+to represent them in the Board and to assist in taking care of the College."]
+ 
+"The whole subscription was basely got up. The whole of this fifty thousand  
+dollars was subscribed for the purpose of removing Williams College to Amherst  
+that was the pretence and the money was given with that design. After it is ob-  
+tained for that purpose, what do these Trustees do? He would not say, they ex-  
+actly put it in their own pockets but they had a kind of ambition they had rather  
+be Presidents, Trustees and Professors than to have others imported perhaps they  
+thought Williams College not hopefully pious enough, and so they made a College  
+ 
+ 
+ 
  
  
  
@@ -2802,7 +2804,11 @@ youth ; and that the Rev. Heman Humphrey, D. D., Hon. William Gray, Hon. Mar-
 cus Morton, Rev. Joshua Crosby, Hon. John Hooker, [Rev. Joseph Lyman, D. D.,]  
 Israel E. Trask, Esq., Rev. Jonathan Going, Elisha Billings, Esq., Rev. James Tay-  
 lor, S. V. S. Wilder, Esq., Rev. Joseph Vaill, Hon. Jonathan Leavitt, Rev. Alfred  
-Ely, Hon. Lewis Strong, [Rev. Francis Wayland, Jr., and Elihu Lyman, Esq.,] l be  
+Ely, Hon. Lewis Strong, [Rev. Francis Wayland, Jr., and Elihu Lyman, Esq.,]
+[Instead of the three names enclosed in brackets, the original bill or the printed copy re-  
+ferred to, p. 152, has the names of Rev. John Fiske, Nathaniel Smith, Esq.. and Rev. Expe-  
+rience Porter.]
+be  
 and hereby are constituted a body corporate, by the name of the Trustees of  
 Amherst College; and that they and their successors, and such as shall be duly  
 elected members of said Corporation, shall be and remain a body corporate by that  
@@ -2816,8 +2822,10 @@ by age or otherwise, of discharging the duties of his office, or shall neglect o
 fuse to perform the same, and also from time to time to elect new members of the  
 said Corporation ; Provided, nevertheless, That the number of members (includ-  
 ing the President of said College, for the time being, who shall ex-officio, be one  
-of said Corporation) shall never be greater than seventeen, 2 [and that the five  
-vacancies which shall first happen in the Board of Trustee?, shall be filled as they  
+of said Corporation) shall never be greater than seventeen, 
+[The original bill adds, nor " remain less than eleven."]
+[and that the five  
+vacancies which shall first happen in the Board of Trustees, shall be filled as they  
 occur, by the joint ballot of the Legislature in convention of both Houses ; and  
 whenever any person so drawn by the Legislature to fill such vacancy, or his suc-  
 cessor, shall cease to be a member of the Corporation, his place shall be filled in  
@@ -2825,13 +2833,10 @@ like manner, and so on forever. And it shall be the duty of the Trustees to fill
 other vacancies of their Board as soon after they occur as reasonably and conven-  
 iently may be done: And provided further, That as vacancies shall occur in said  
  
-1 Instead of the three names enclosed in brackets, the original bill or the printed copy re-  
-ferred to, p. 152, has the names of Rev. John Fiske, Nathaniel Smith, Esq.. and Rev. Expe-  
-rience Porter. 2 The original bill adds, nor " remain less than eleven."  
  
  
  
-THE CHAKTEB. 661  
+THE CHARTER. 661  
  
 Board, they shall be so filled that the said Board shall, as soon as may be, and for-  
 ever after, consist of seven clergymen and ten laymen ;] and the Rev. Heman  
@@ -2914,7 +2919,12 @@ also, that if the said Trustees of Amherst Academy shall not, within eight month
 from the passing of this act, by a good deed or deeds, assign, convey and make over,  
 to the said Trustees of Amherst College, their successors and assigns, all the real  
 estate, goods, chattels, choses in action and property mentioned in the fifth section of  
-this act, to be used and appropriated as is therein provided, this act shall be void.] 1  
+this act, to be used and appropriated as is therein provided, this act shall be void.] 
+[In the original bill section seven reads as follows: And be it further enacted by the au-  
+thority aforesaid, That if the Trustees of Williams College shall, within seven years, signify  
+a desire of union with the College at Amherst, such union shall take place on terms to be  
+agreed upon by Commissioners appointed by the two Corporations: Provided that the terms  
+of union agreed upon shall receive the sanction of the Legislature.]
  
 SEC. 8. And be it further enacted, That the Legislature of this Commonwealth  
 may grant any further powers to, or alter, limit, annul, or restrain, any of the  
@@ -2940,11 +2950,6 @@ fore the election. It was communicated to me by Rev. Oman Eastman and is at-
 tested by the Librarian of the Antiquarian Library at Worcester as a true copy  
 from the National JEgis. It belongs to another age, not to say another world, from  
  
-1 In the original bill section seven reads as follows: And be it further enacted by the au-  
-thority aforesaid, That if the Trustees of Williams College shall, within seven years, signify  
-a desire of union with the College at Amherst, such union shall take place on terms to be  
-agreed upon by Commissioners appointed by the two Corporations: Provided that the terms  
-of union agreed upon shall receive the sanction of the Legislature.  
  
  
  
@@ -3035,7 +3040,9 @@ from the Palace of Assurnazirbal, King of Assyria, built in the City of Calah, t
 modern Nimroud. Assurnazirbal ascended the throne July 2, 930 years before  
 Christ, (as deduced from a solar eclipse that occurred on that day and to which he  
 often refers in his Annals as a favorable omen,) and reigned till 905 B. C. The  
-lines in the Transliteration 1 follow Slab No 3 in the Dickinson Nineveh Gallery,  
+lines in the Transliteration 
+[Manuscript copy of the cuneiform characters, accompanied by interlinear translations.]
+follow Slab No 3 in the Dickinson Nineveh Gallery,  
 Amherst College. The same inscription is repeated on the Slabs from the same Pal-  
 ace now in the Cabinets of Yale, Williams, and other Colleges."  
  
@@ -3057,20 +3064,18 @@ hostages, imposing laws over all those provinces.
  
 When the supreme god, Assur, speaking my name and enlarging my Royalty,  
 gave his unstinted support to the service of my Royalty, I attacked the army of  
-the land of Lulla, a'land of extended waters In the midst of battle I slew them  
+the land of Lulla, a land of extended waters. In the midst of battle I slew them  
 with arrows to the delight ? of II, Ninib and Yav, gods whom I serve. The coun-  
 tries of Nam, Gilhi, and Subarie I attacked and conquered.  
  
 I am the King who reduced under his feet the territory from the ford of the  
 Tigris unto Lebanon and the Mediterranean Sea, a land not previously acquired  
  
-1 Manuscript copy of the cuneiform characters, accompanied by interlinear translations.  
  
  
+NIMROUD SLABS AND THEIR TRANSLATION. 665  
  
-NTMBODD SLABS AND THEIR TRANSLATION. 665  
- 
-and also the land of Zuhi as far as the City of Kapigi ; who annexed to his land the  
+and also the land of Zuhi as far as the City of Kapigi; who annexed to his land the  
 Territory from the source of the river Zubnat as far as Armenia, the neighborhood  
 of Gilruri as far as Gozan, from the ford of the Lower Zab as far as the City Tel  
 Bari which is beyond the province of the Zab, from the City Tel Abtani as far as  
@@ -3093,16 +3098,16 @@ City of Lutga and the region of Euphrates, from all the land of Zamua, from the
 lands of Bitadini and Pate from Lubarna King of Patinai, I collected and trans-  
 ported them to the City of Calah. I threw down the old mound and leveled it to  
 the water. I laid in order one hundred and twenty courses on the bottom. I placed  
-thereon a palace of cedar-wood, box- wood, cypress wood, arrow- wood, rukanni  
+thereon a palace of cedar-wood, box-wood, cypress wood, arrow-wood, rukanni  
 wood, butni wood and halpi wood, for the seat of my royalty, for the fullness of my  
 princedom for all future time. I made in stone images of animals of the moun-  
 tains and seas, and set them up in its gates and consecrated them. I roofed it with  
 plates of copper. I hung in its gates folding doors of cedar-wood, box-wood, fir-wood  
-and rukanni wood. I gathered in great quantities silver, gold, tin ?, copper, iron  
+and rukanni wood. I gathered in great quantities silver, gold, tin, copper, iron  
 which I had captured in the countries which I conquered, and deposited them in  
 the midst of the palace.  
  
-WILLIAM HATES WARD, '56.  
+WILLIAM HAYES WARD, '56.  
  
 The above translation occupies four manuscript pages. Then follow nineteen  
 pages of Transliteration and interlinear translation, (a page being devoted to each  
@@ -3113,4 +3118,7 @@ to the eye of the curious reader the structure and arrangement of the language a
 furnishing the philological student, so far forth, a chrestomathy for the study of its  
 grammar and lexicography.  
  
-The whole is dated "Independent Office, July 11, 1871," and inscribed, "A Ju-  
+The whole is dated "Independent Office, July 11, 1871," and inscribed, "A Jubilee Offering".
+
+Pages 667-671 include the index and a statement: "On page 290, line 20, for Humphrey read Hitchcock".
+
