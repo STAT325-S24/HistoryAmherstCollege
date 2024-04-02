@@ -1,7 +1,7 @@
 ---
-title: "Make RDS"
+title: "Makes one table from all chapters"
 author: "Casey Crary"
-date: "2024-03-31"
+date: "2024-04-02"
 date-format: iso
 format: pdf
 editor: source
@@ -10,18 +10,20 @@ editor: source
 ```{r}
 #| label: setup
 #| include: false
-#library(unsure)
+library(tibble)
+library(dplyr)
+library(stringr)
 ```
 
 This file takes all the data from "data-raw-depaginate" (which will be changed to "data-raw-dehyphenate"), and appends all the txt files into one.  Aspirational goal:  make this output an rds file instead.  
 
 ```{r}
-write("", "data/output.txt")        # create file to output to
+write("", "../data/output.txt")        # create file to output to
 
 # appends a given chapter_name onto output.txt
 append_chapter <- function(chapter_name) {
-  to_write_to <- "data/output.txt"
-  file_name <- paste0("data-raw-depaginate/", chapter_name, ".txt")
+  to_write_to <- "../data/output.txt"
+  file_name <- paste0("../data-raw-depaginate/", chapter_name, ".txt")
   chap_data <- readLines(file_name)
 
   write(chap_data,file=to_write_to,append=TRUE)
@@ -37,9 +39,13 @@ for(i in 0:28) {
   
   append_chapter(chapter_name)
 }
+# appendix
+
+# Once appendix cleaned exists this should work?  XX
+# append_chapter("appendix_cleaned.txt")
 
 # proof we can then put output.txt into an R object
-HistoryAmherstCollege <- readLines("data/output.txt")
+HistoryAmherstCollege <- readLines("../data/output.txt")
 
 
 # makes tibble with line number and chapter number
