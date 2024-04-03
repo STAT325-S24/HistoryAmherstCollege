@@ -1,4 +1,5 @@
 library(tidyverse)
+library(cleanNLP)
 history_text <- tibble(x = 1, y = 2)
 
 process_chapter <- function(filename) {
@@ -24,7 +25,14 @@ history_text <-
 usethis::use_data(history_text, overwrite = TRUE)
 
 
-
-history_anno <- tibble(x = 1, y = 2) # this is a stub: needs to be replaced with appropriate 
 # calls to cleanNLP
+
+library(reticulate)
+use_python_version("3.11.8")
+py_config()
+# install_python(version = "3.11.8")
+reticulate::import("cleannlp") 
+cnlp_init_spacy(model_name="en_core_web_sm")
+history_anno <- cnlp_annotate(history_text) # may need to rename things
+
 usethis::use_data(history_anno, overwrite = TRUE)
