@@ -1,0 +1,53 @@
+Package: HistoryAmherstCollege
+Date: 2024-04-03
+Title: Text and Materials related to the History of Amherst College During Its First Half Century book by William Seymour Tyler
+Version: 0.1
+Authors@R: 
+    c(person(
+      given = "Nicholas J.",
+      family = "Horton",
+      role = c("aut", "cre"),
+      email = "nhorton@amherst.edu",
+      comment = c(ORCID = "0000-0003-3332-4311")),
+    person(
+      given = "Francisco J.",
+      family = "Flores-Mejia",
+      role = c("aut"),
+      email = "ffloresmejia24@amherst.edu"
+    ),
+    person(
+      given = "Justin",
+      family = "Papagelis",
+      role = c("aut"),
+      email = "jpapagelis24@amherst.edu"
+    ),
+    person(
+      given = "Tyler",
+      family = "Knightly",
+      role = c("aut"),
+      email = "tknightly24@amherst.edu"
+    ),
+    person(
+      given = "Adam",
+      family = "Rogers",
+      role = c("aut"),
+      email = "arogers24@amherst.edu"
+    ),
+    person(
+      given = "Casey",
+      family = "Crary",
+      role = c("aut"),
+      email = "ccrary26@amherst.edu"
+    ))
+Description: This package makes the text of the book available.
+  See https://archive.org/details/historyofamherst00tyleiala for the book in a variety of formats.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 4.1)
+Imports:
+    dplyr,
+    stringr
+LazyData: true

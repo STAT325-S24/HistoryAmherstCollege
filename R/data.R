@@ -1,0 +1,75 @@
+#' History of Amherst College text
+#'
+#' XX More description?
+#'
+#' @docType data
+#' @name history_text
+#' @usage data(history_text)
+#'
+#' @keywords datasets
+#'
+#' @source See https://archive.org/details/historyofamherst00tyleiala for the book in a variety of formats.
+#' @format
+#'   A data frame with XX observations on the following variables.
+#'   \itemize{
+#'     \item{\code{file_name}} {File name of scanned image (in extdata)}
+#'     \item{\code{block}} {block (string, e.g., "12")}
+#'     \item{\code{parcel}} {parcel (string, e.g., "06" or "06A")}
+#'     \item{\code{property_location}} {Address in Holyoke, MA}
+#'     \item{\code{owner}}{Property owner}
+#'     \item{\code{owner_address}}{Property owner address}
+#'     \item{\code{date_acquired}}{Date acquired}
+#'     \item{\code{data_acquired2}}{Second date acquired (rare)}
+#'     \item{\code{grantor}}{Grantor}
+#'     \item{\code{deed_reference_book}}{Deed information}
+#'     \item{\code{deed_reference_page}}{Deed information}
+#'     \item{\code{tax_year}}{Tax information}
+#'     \item{\code{tax_remarks}}{Tax information}
+#'     \item{\code{assessed_text}}{Assessment information}
+#'     \item{\code{assessed_value}}{Total assessment amount (see text for components)}
+#'     \item{\code{stamps}}{Tax information}
+#'     \item{\code{remarks}}{Tax remarks}
+#'     \item{\code{building_description}}{Building information (various formats)}
+#'     \item{\code{building_data}}{Building information (various formats)}
+#'     \item{\code{house_or_not}}{House string in description (coarse way to identify houses)}
+#'   }
+#'
+"history_text"
+
+#' History of Amherst College annotated text
+#'
+#' XX More description?
+#'
+#' @docType data
+#' @name history_anno
+#' @usage data(history_anno)
+#'
+#' @keywords datasets
+#'
+#' @source See https://archive.org/details/historyofamherst00tyleiala for the book in a variety of formats.
+#' @format
+#'   A data frame with XX observations on the following variables.
+#'   \itemize{
+#'     \item{\code{file_name}} {File name of scanned image (in extdata)}
+#'     \item{\code{block}} {block (string, e.g., "12")}
+#'     \item{\code{parcel}} {parcel (string, e.g., "06" or "06A")}
+#'     \item{\code{property_location}} {Address in Holyoke, MA}
+#'     \item{\code{owner}}{Property owner}
+#'     \item{\code{owner_address}}{Property owner address}
+#'     \item{\code{date_acquired}}{Date acquired}
+#'     \item{\code{data_acquired2}}{Second date acquired (rare)}
+#'     \item{\code{grantor}}{Grantor}
+#'     \item{\code{deed_reference_book}}{Deed information}
+#'     \item{\code{deed_reference_page}}{Deed information}
+#'     \item{\code{tax_year}}{Tax information}
+#'     \item{\code{tax_remarks}}{Tax information}
+#'     \item{\code{assessed_text}}{Assessment information}
+#'     \item{\code{assessed_value}}{Total assessment amount (see text for components)}
+#'     \item{\code{stamps}}{Tax information}
+#'     \item{\code{remarks}}{Tax remarks}
+#'     \item{\code{building_description}}{Building information (various formats)}
+#'     \item{\code{building_data}}{Building information (various formats)}
+#'     \item{\code{house_or_not}}{House string in description (coarse way to identify houses)}
+#'   }
+#'
+"history_anno"
