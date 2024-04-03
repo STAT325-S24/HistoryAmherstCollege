@@ -1,7 +1,12 @@
 ^.*.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^quarto_files$
+^output.txt$
 ^data-raw$
+^data-raw-depaginate$
+^data-raw-dehyphenate$
+^page-tables$
 ^.github$
 ^docs$
 shiny
