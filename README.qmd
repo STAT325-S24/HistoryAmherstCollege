@@ -39,6 +39,11 @@ library(HistoryAmherstCollege)
 
 XX will go here...
 
+```{r}
+glimpse(history_text)
+glimpse(history_anno)
+```
+
 
 ## Notes
 

@@ -30,6 +30,25 @@ https://stat325-s24.github.io/HistoryAmherstCollege/
 
 XX will go here…
 
+``` r
+glimpse(history_text)
+```
+
+    Rows: 5,913
+    Columns: 3
+    $ text      <chr> "Amherst College DUrING ITS FIRST HALF CENTURY.  1821-1871."…
+    $ chapter   <chr> "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", …
+    $ paragraph <dbl> 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, …
+
+``` r
+glimpse(history_anno)
+```
+
+    Rows: 1
+    Columns: 2
+    $ x <dbl> 1
+    $ y <dbl> 2
+
 ## Notes
 
 -   The index was not included in the text in the package
