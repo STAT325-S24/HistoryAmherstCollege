@@ -1,7 +1,8 @@
 ---
 title: "Wrangling Page Breaks & Subtitles"
 author: Justin Papagelis (jpapagelis24@amherst.edu)
-date: 4-2-2024
+date: 2024-04-03
+date-format: iso
 format: pdf
 ---
 
@@ -19,9 +20,12 @@ path <- getwd()
 absolute_path <- paste0(path, "/wrangle_page_breaks.R")
 source(absolute_path)
 
+max_chapter <- 29
+
 preprocess_chapter <- function(chapter_name) {
   chap_data <- readLines(paste0(path, "/", chapter_name, ".txt"))
   total_lines <- length(chap_data)
+
   
   
   for(i in 1:(total_lines - 5)) {
@@ -39,7 +43,7 @@ preprocess_chapter <- function(chapter_name) {
 
 
 
-for(i in 0:28) {
+for(i in 0:max_chapter) {
   chapter_num <- sprintf("%02d", i)
   chapter_name <- paste("chapter", chapter_num, sep="")
   
@@ -56,7 +60,7 @@ table_full<- tibble(
     first_line = character()
 )
 
-for(i in 0:28) {
+for(i in 0:max_chapter) {
   chapter_num <- sprintf("%02d", i)
   chapter_name <- paste("chapter", chapter_num, sep="")
   
