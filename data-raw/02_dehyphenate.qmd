@@ -1,5 +1,8 @@
 ---
+author: "Adam? Frankie?"
 title: "Wrangling Page Breaks & Subtitles"
+date: 2024-04-03
+date-format: iso
 format: pdf
 ---
 
@@ -7,6 +10,7 @@ format: pdf
 `r Sys.time()`
 
 ```{r, include = FALSE}
+library(tidyverse)
 library(stringr)
 ```
 
@@ -32,7 +36,7 @@ fix_up_lines <- function(file) {
 
 ```{r}
 path <- getwd()
-for(i in 0:28) {
+for(i in 0:29) {
   chapter_num <- sprintf("%02d", i)
   chapter_name <- paste(path, 
                         "/../data-raw-depaginate/chapter", 
