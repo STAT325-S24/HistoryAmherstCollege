@@ -50,4 +50,4 @@ Depends:
 Imports:
     dplyr,
     stringr
-LazyData: true
+LazyData: false
