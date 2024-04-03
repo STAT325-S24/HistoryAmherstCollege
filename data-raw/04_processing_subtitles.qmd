@@ -1,0 +1,42 @@
+---
+title: "Postprocessing subtitles"
+author: "Nicholas Horton (nhorton@amherst.edu)"
+date: 2024-04-03
+date-format: iso
+format: pdf
+---
+
+### Last Run:
+`r Sys.time()`
+
+
+```{r, include = FALSE}
+library(tidyverse)
+library(stringr)
+```
+
+```{r}
+max_chapter <- 29
+
+chapters <- 
+  paste0("page_table_chapter", sprintf("%02d", 0:max_chapter), ".rds")
+
+
+postprocess_chapter <- function(chapter_name) {
+  chap_num <- str_extract(chapter_name, "\\d+")
+  chapter_subtitles <- readRDS(paste0("../page-tables/", chapter_name)) |>
+    mutate(
+      chapter = chap_num
+    )
+  return(chapter_subtitles)
+}
+```
+
+```{r}
+sub_titles <- chapters |>
+  purrr::map_dfr(postprocess_chapter) |>
+  select(chapter, page_number, page_header)
+knitr::kable(sub_titles)
+```
+
+```{r}

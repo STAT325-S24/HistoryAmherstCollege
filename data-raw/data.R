@@ -8,7 +8,7 @@ process_chapter <- function(filename) {
   text <- read_lines(filename)
   history_text <- tibble(text = text) |>
     mutate(
-      chapter = as.character(readr::parse_number(basename(filename))),
+      chapter = str_extract(filename, "\\d+"),
       paragraph = cumsum(text == "") + 1,
     )
   # return the processed text
