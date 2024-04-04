@@ -20,6 +20,8 @@ chapters <- # list.files("data-raw-dehyphenate", full.names = TRUE)
 history_text <-
   chapters |>
   purrr::map_dfr(process_chapter)
+
+# add page numbers here? AR + TK
                  
 usethis::use_data(history_text, overwrite = TRUE)
 
