@@ -55,7 +55,6 @@
 #'     \item{\code{chapter}} {The chapter the heading is present in}
 #'     \item{\code{page_number}}{The page number the heading occurs on}
 #'     \item{\code{page_header}}{The actual string value of the heading}
-
 #'   }
 #'
 "history_subtitles"
