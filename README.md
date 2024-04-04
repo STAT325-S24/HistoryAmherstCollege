@@ -33,13 +33,13 @@ XX will go here…
 packageVersion("HistoryAmherstCollege")
 ```
 
-    [1] '0.4'
+    [1] '0.5'
 
 ``` r
 glimpse(history_text)
 ```
 
-    Rows: 10,792
+    Rows: 30,049
     Columns: 3
     $ text      <chr> "Amherst College DUrING ITS FIRST HALF CENTURY.  1821-1871."…
     $ chapter   <chr> "00", "00", "00", "00", "00", "00", "00", "00", "00", "00", …
@@ -51,7 +51,9 @@ mosaic::tally(~ chapter, data = history_text)
 
     chapter
       00   01   02   03   04   05   06   07   08   09   10   11   12   13   14   15 
-     163  426  400  210  402  407  415  697  540  904 1349 1294  964 1110 1206  305 
+     158  426  399  210  402  407  409  697  540  903 1349 1294  963 1110 1205  305 
+      16   17   18   19   20   21   22   23   24   25   26   27   28   29 
+    1328 1254  446 1303 2093 1251 1088  684  927 1494  667  313 3610 2814 
 
 ``` r
 glimpse(history_anno)
@@ -93,6 +95,35 @@ mosaic::tally(~ entity$entity_type, data = history_anno)
              19         150         158         313         284        1633 
         PERCENT      PERSON     PRODUCT    QUANTITY        TIME WORK_OF_ART 
               3        1714          20          17         107          61 
+
+``` r
+glimpse(history_subtitles)
+```
+
+    Rows: 636
+    Columns: 3
+    $ chapter     <chr> "00", "00", "00", "00", "01", "01", "01", "01", "01", "01"…
+    $ page_number <int> NA, NA, NA, NA, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25…
+    $ page_header <chr> "PREFACE. v", "vi PREFACE.  ", "PREFACE. vii  ", "viii PRE…
+
+``` r
+glimpse(history_tables)
+```
+
+    Rows: 15
+    Columns: 3
+    $ pdf_pg  <dbl> 15, 335, 412, 493, 506, 649, 655, 657, 668, 676, 680, 688, 693…
+    $ book_pg <dbl> 9, 321, 392, 465, 478, 607, 613, 615, 626, 632, 636, 644, 649,…
+    $ title   <chr> "Contents", "Misc_Donations", "Principal_Donations", "Religiou…
+
+``` r
+glimpse(history_figures)
+```
+
+    Rows: 20
+    Columns: 2
+    $ pdf_pg  <dbl> 6, 40, 71, 84, 293, 341, 372, 409, 421, 425, 429, 453, 590, 59…
+    $ caption <chr> "view_from_ne", "view_from_mt_pleasant", "ac_in_1821", "zeph_s…
 
 ## Notes
 
