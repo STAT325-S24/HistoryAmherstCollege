@@ -50,7 +50,7 @@
 #'
 #' @source See https://archive.org/details/historyofamherst00tyleiala for the book in a variety of formats.
 #' @format
-#'   A data frame with XX observations on the following variables.
+#'   A data frame with 636 observations on the following variables.
 #'   \itemize{
 #'     \item{\code{chapter}} {The chapter the heading is present in}
 #'     \item{\code{page_number}}{The page number the heading occurs on}
