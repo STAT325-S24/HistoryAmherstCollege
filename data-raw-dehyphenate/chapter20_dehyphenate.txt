@@ -70,6 +70,10 @@ to a result which, a few weeks ago, I could hardly have considered
 among the possibilities, viz : to accept the office you have
 conferred upon me, and to attempt the high duties it involves.
 
+
+
+890 HISTORY OF AMHERST COLLEGE.
+
 I do this relying on that cordial sympathy and co-operation on
 the part of the Trustees and honored Professors of the College
 which, I have been assured, will be truly accorded to me, and
@@ -150,7 +154,6 @@ that written examinations were instituted with most marked and
 beneficial results. And prizes were offered in almost all the departments.
 Instead of a few competing for the prizes in declamation,
 nearly every member of the class stood his trial 2 for the
-
 privilege of competing. I doubt if there was ever before, in the
 history of the College, a time when such untiring efforts were
 made in every respect for the good of the students."
@@ -178,87 +181,8 @@ is given, not only in justice to the donors, but also as showing
 the purpose of the donations and thus illustrating this portion
 of our history :
 
-Donation for the Appleton Cabinet, 1854 $10,000
-
-Donation for the Sweetser Lecture Room, 1855, 1,000
-
-Donation for the Nineveh Gallery, 1857 967
-[Building and contents cost $1,167, of which only $200 was paid
-out of the College Treasury.]
-
-Subscriptions for East College, 1857, seq. , 5,000
-
-Donation for Williston Hall, 1857, 16,000
-
-Hitchcock Scholarships, 1858 10,000
-
-Legacy of Dr. and Mrs. Moore, 1858, 9,175
-
-Legacy of Asahel Adams, 1858, 4,500
-
-Subscriptions for the Gymnasium, 1859, . 3,550
-
-Donation of Messrs. J. C. Baldwin and A. Lilly, 1859, 4,000
-
-Subscriptions of Alumni for the Library, 1859, seq., 7,000
-
-Amount carried forward, $71,192
-
-Amount brought forward, $71,192
-
-Legacy of Jonathan Phillips, [With income added] 1860 6,500
-
-Grants by the Legislature, 1861-3, 27,500
-
-Walker Professorship of Mathematics and Astronomy, 1861, . . . 25,000
-
-Walker Instructorships, etc., 1862, 10,000
-
-Walker Prizes, 1862-3, 2,000
-
-Legacy of Richard Bond for General Treasury, 1863, 4,000
-
-Donation of David Sears for Library Building, J 1863, 8,000
-
-Walker Building Fund, (Dr. Walker and others,) 1 1864, .... 140,000
-
-Donation for College Church, (W. F. Stearns,) 1 1864, 46,000
-
-Samuel Green Professorship, 1864, 25,000
-
-Walker Legacy, 1866, 144,976
-
-Donation of George H. Gilbert for Books, 1 1866, 7,000
-
-Legacy of Dr. Barrett for Gymnasium, 1870, 5,000
-
-Mr. Williston for Instruction in English Literature, 1869-70-71, . 3,000
-
-Donation of Mr. Williston at Semi-Centennial, 1871, 50,000
-
-Donation of Mr. Howe, Chime of Bells and Scholarship, 1871, . . 5,000
-
-Increase of Charity Fund, [Added to the principal] 10,000
-
-Increase of Stimson Fund, 8,000
-
-Mr. Hitchcock to increase his Professorship and Scholarships, 1869, 20,000
-
-Recent Scholarships, [Principal not all paid in] 35,000
-
-Prizes not mentioned above, [Principal  not all paid in] 12,000
-
-Increase of Collections in Natural History [See Note], 4 8.000
-
-Illustrations and Ornaments in Classical Recitation Rooms, . . . 2,500
-
-Bust of Dr. Hitchcock and other Ornamental Statuary, .... 1,500
-
-Hallock Park, 1868 2,000
-
-Mr. Hitchcock for Scholarships and Kindred Purposes, 1872, . . 100,000
-
-Total $779,168
+[Table: Principal_Donation, Page 392]
+[Table: Principal_Donation, Page 392]
 
 [Note: * Estimated at $12,000 by the curator (Prof. E. Hitchcock,) but about $4,000 was
 paid out of State grants already mentioned out of the College treasury. Among
@@ -274,6 +198,7 @@ period can compare with it in the munificence of its public charities
 ; and there is no other form of public charity, for which
 wealthy and benevolent men have given more freely or more
 abundantly than for the endowment of institutions of learning.
+
 
 
 394 HISTORY OF AMHERST COLLEGE.
@@ -396,7 +321,6 @@ nominal, and were paid out of the College treasury. The first
 regular prizes given by an individual for successive years were
 given by Joseph Sweetser, Esq., a former resident of Arnherst,
 but then residing in New York City. These were given under
-
 the presidency of Dr. Hitchcock. In 1857, Hon. Alpheus Hardy
 of Boston established the Hardy Prizes for improvement in Extemporaneous
 Speaking ; and now we have a thousand dollars
@@ -474,7 +398,6 @@ raised the money to pay all the expenses, superintended
 the whole business, and in short manifested scarcely less interest
 in these foot-prints of former generations of men, than in the
 ichnolites of the pre-Adamic earth in his own cabinet.
-
 The next public buildings were the result of a calamity which,
 as not unfrequently happens, proved a blessing in disguise. One
 cold and stormy night in the winter of 1857, when the northwest
@@ -590,7 +513,6 @@ he left in his will a legacy of five thousand dollars, the income
 of which is to be annually expended for similar purposes.
 
 The principal of the Walker building fund (one hundred
-
 thousand dollars) was filled up in 1864. At a special meeting
 of the Trustees in November, 1866, they appointed a Building
 Committee of their own number. This committee consisted of
@@ -631,12 +553,6 @@ Several architects and landscape-gardeners were consulted in
 the settlement of these vexed questions. More than one architect
 also presented plans for the building. The plan which best
 satisfied the parties chiefly concerned, and indeed the only plan
-
-
-
-
-WALKER HALL. 403
-
 which solved the almost insoluble difficulties of the problem and
 united beauty with convenience, was that of George Hathorne,
 of New York. This plan was adopted, and he became the architect
@@ -812,7 +728,7 @@ while the word chapel, from the Latin capella, has no Christian
 significance in its etymology but means only a short cloak, hood
 or cowl and was first used, it is said, to designate the tent in
 which St. Martin's hat or cowl was preserved, the word church
-firicls its origin and its meaning in the Christian epithet KvQiaxoz,
+find its origin and its meaning in the Christian epithet KvQiaxoz,
 belonging to the Lord, and which, while it is a proper designation
 alike for an assembly of believers and for the consecrated
 place in which they worship, is just as appropriate for a small
@@ -822,7 +738,7 @@ Rev. Mr. Gushing in his appropriate and instructive address,
 spoke of the American College, as not merely an educational
 institution, but having a distinctively religious character, founded
 originally for Christ and the Church and intended primarily to
-educate me'n for the gospel ministry. But this primary idea
+educate men for the gospel ministry. But this primary idea
 and intention of the College, he insisted, was endangered by the
 secularizing and materialistic spirit of the age which would paganize
 the public schools, and make the College a University
@@ -983,11 +899,8 @@ preserved, but animation and cheerfulness, and a higher order
 of efficient study and intellectual life would be secured. It will
 be for the consideration of this Board, whether, for the encouragement
 of this sort of exercise, the time has not come when
-efficient measures should be taken for the erection of a gynmao/
-
-
-
-sium, and the procuring of" its proper appointments." The
+efficient measures should be taken for the erection of a gynmasium,
+and the procuring of "its proper appointments." The
 Trustees accordingly chose a committee consisting of the President,
 Dr. Nathan Allen, Henry Edwards, Esq., and Hon. Alexander
 H. Bullock, who reported at once in favor of an immediate
@@ -1162,7 +1075,6 @@ of the Corporation to subject present incumbents to examination,
 gave offence to Dr. Walker, and turned him aside from his plan of
 endowing the Medical Department of Harvard University.] to consist
 in part of precise and accurate
-
 knowledge of the fundamental truths of Geometry, Arithmetic,
 Algebra and Trigonometry, and in part of the ability to
 perform the elementary operations of Mathematics with rapidity
@@ -1242,9 +1154,8 @@ the same time lowered somewhat the general standard of mathematical
 discipline and attainment. The Professors in the other
 departments, I am sure, would be reluctant to be subjected
 to all its rules and regulations. Messrs. William B. Graves of
-the Class of '62, Thomas D. Biscoe of '63, and John K. Richard27
-
-son of '69, have successively filled the office of Walker Instructor
+the Class of '62, Thomas D. Biscoe of '63, and John K. Richardson
+of '69, have successively filled the office of Walker Instructor
 in Mathematics, in such a manner as to meet fully the high
 demands of the founder. The first two are now Professors in
 western colleges the last is the present incumbent.
@@ -1365,8 +1276,6 @@ to the department of Natural Philosophy from 1828 to 1869 has
 been about sixty-five dollars per year a sum which could hardly
 be expected to do more than keep the apparatus in tolerable
 repair." " Now that the collection is to occupy a spacious and
-I
-
 handsome apartment," he proceeds to say, " I trust the Walker
 funds will avail to replace many cheap-looking instruments by
 more comely and fitting ones, as well as to add a number of others
@@ -1525,7 +1434,6 @@ sciences ; and Mr. Emerson will be the Professor. [P. S. At a
 meeting of the Trustees in Boston, February 7, 1872, the title of
 the Hitchcock Professorship was changed from that of Geology and
 Natural Theology] Meanwhile
-
 Natural Theology is provided for by ample instructions from the
 President and the Professor of Mental and Moral Philosophy, as
 well as by the able and popular lectures of Dr. Burr on this
@@ -1605,12 +1513,6 @@ beyond all question and almost beyond calculation, to what it
 has received directly or indirectly from Amherst and Amherst
 College. How much benefit Amherst College has derived in
 turn and will derive from the Agricultural College is not so
-
-
-
-
-MASSACHUSETTS AGRICULTURAL COLLEGE. 427
-
 clear. In many respects, doubtless, the benefit will be mutual.
 At least, the two Institutions unite to make Amherst one of the
 chief educational centers of the Old Bay State.
@@ -1690,7 +1592,6 @@ several Reports " received the special attention of the Board at
 their annual meeting in 1857, and, approved by them, were gradually
 incorporated into the system of instruction. The Tutors
 [The last Tutor so called was in 1865.]
-
 gradually gave place to Instructors who remained several years
 and instructed only in one department; and some of these
 Instructors were at length made Professors. Mr. Richard H.
@@ -1771,7 +1672,6 @@ A growing interest in preaching and a desire for the work of
 the ministry, somewhat quickened, it may be, by some friction in
 matters pertaining to the Library, led him in 1855 to accept a
 call to the pastoral office in Nashua, N. H.
-
 At the annual meeting of the Trustees in 1856, Mr. Lyman
 R. "Williston, of the Class of '50, was chosen Professor in this
 department, with liberty to continue his studies another year in
@@ -1812,8 +1712,6 @@ classes.
 Subject to change as usual, the Rhetorical Department has had
 three different incumbents since Dr. Stearns entered upon the
 presidency. Rev. Thomas P. Field, of the Class of '34, was
-
-
 chosen Professor in this department at a special meeting of the
 Trustees held in Amherst, November 21, 1853, just a year previous
 to the ordination and inauguration of President Stearns,
@@ -1910,7 +1808,6 @@ assistance also to Prof. Hitchcock in the gymnasium, thus
 relieving the Professors in two departments which at certain
 points are somewhat closely related to each other, and both of
 which involve labors almost without end.
-
 
 The Professor of Rhetoric and Oratory has received the assistance
 also of a more experienced elocutionist for a limited

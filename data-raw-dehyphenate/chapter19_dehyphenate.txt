@@ -1,7 +1,6 @@
 CHAPTER XIX.
 
-BIOGRAPHICAL SKETCHES OF DR. HITCHCOCK AND SOME OF
-.HIS ASSOCIATES.
+BIOGRAPHICAL SKETCHES OF DR. HITCHCOCK AND SOME OF HIS ASSOCIATES. 355
 
 DR. HITCHCOCK'S " Reminiscences of Amherst College " is at
 the sazae time an autobiography, almost the last production of
@@ -189,7 +188,6 @@ on public occasions. He revised his principal works and published
 new ones. The second edition of his Religion of Geology,
 considerably enlarged, was issued in 1859, the thirty-first
 edition of his Elementary Geology, re-written, appeared in 1860,
-
 and the third edition of the " Phenomena of the Seasons," with
 additions, in 1861. In 1859, the Faculty and students presented
 him with a beautiful service of silver plate which gratified him
@@ -402,7 +400,6 @@ College was indebted to the rare self-denial and Christian
 sympathy of Mrs. Hitchcock scarcely less than to the wisdom and
 fervor of her husband for the Monday evening prayer-meetings to
 which the whole house was thrown open, and which left such
-
 a benediction behind them. To her, also, with the hearty cooperation
 of the other ladies, the College chapel owed its first
 renovation, early in Dr. Hitchcock's presidency. Never did a
@@ -483,13 +480,6 @@ he fell victim to his ruling passion. Led, partly by the state of
 his health and partly for the sake of scientific explorations and
 collections, to visit the tropical climates, he spent the winters of
 1844-5 and 1848-9 in Jamaica, and 1850-1 at Panama. In
-
-
-
-
-
-PROFESSOR ADAMS. 367
-
 December, 1852, he visited St. Thomas for similar purposes ; but
 he had scarcely reached the island and entered with his usual
 enthusiasm upon his researches, when he was attacked by the
@@ -572,7 +562,6 @@ Nine Trustees terminated their connection with the College
 by death or resignation during the presidency of Dr. Hitchcock.
 
 Rev. Theophilus Packard, D. D., was, as we have related in a
-
 former chapter, the mover of the resolution iu the Franklin
 Association of Congregational Ministers which first publicly recommended
 Arnherst as the most eligible site for a new College
@@ -612,9 +601,8 @@ of Overseers of the Charity Fund of Amherst College. In
 resigned his trust at the same time that his friend Dr. Hitchcock
 retired from the presidency. He died September 17, 1855, and
 Dr. Hitchcock preached his funeral sermon on the 19th in the
-presence of a large assemblage of Ministers and Christians con24
-
-vened at Shelburne to attend the Franklin County Church Conference
+presence of a large assemblage of Ministers and Christians convened
+at Shelburne to attend the Franklin County Church Conference
 and Benevolent Anniversaries. In this sermon, which
 was published, Dr. Hitchcock says : " For forty-five years he
 scarcely ever failed of being present at the Commencement of
@@ -653,7 +641,6 @@ occasion before the students and the people in the village
 church in Amherst, and the writer will never forget the winning
 and persuasive words with which he recommended the Great
 Physician to his hearers, all of whom he represented as sick
-
 unto death with the fever, the leprosy, the plague of sin. Dr.
 Packard published five sermons, two of which were on the Divinity
 of Christ, and one was delivered before the Hampshire
@@ -1059,7 +1046,6 @@ historical discourse. [See Durfee's Biographical Annals
 of Williams College.] He celebrated his golden wedding May 4,
 1862, of which an interesting account, in a beautiful little
 volume, was given to the public. This worthy and venerable
-
 couple are still living, " in their happy home on Leicester
 Hill," (so he writes in a letter just received, December, 1871,)
 near the close of the sixtieth year of his ministry and of their
@@ -1099,7 +1085,6 @@ for his health in the Southern States and in Europe from October,
 1845, till May, 1847 ; went to the South again in the autumn
 of 1851 ; and died at Athens, Ga., April 20, 1852, wanting
 a few months of being fifty years of age.
-
 I shall not review his early life and education, his contributions
 to American literature or his services in the cause of biblical
 learning and theological education. I shall not dwell upon
@@ -1140,7 +1125,6 @@ committee, now to deliver an address, now to organize a
 society of alumni, now to preside over its meetings. Still more
 frequently was he consulted by letter or by committee ; and his
 advice, constantly asked and freely but modestly given, was a
-
 guide and a support to the College in many of its most trying
 emergencies. The officers of the College also found in him a
 faithful friend and wise counselor, whether in their private labors
@@ -1216,11 +1200,11 @@ which continued between two and three years, and increased
 greatly both the moral and the numerical strength of the church.
 In 1818-19, another and still more powerful revival occurred,
 the result of which was an addition to the church of more than
-ninety persons of all ages and conditions. l There were several
+ninety persons of all ages and conditions.
+[Sprague's Annals, Vol. II., p. 367.]
+There were several
 other interesting revivals during his ministry, by which and by
 the blessing of heaven on his wise and faithful labors the church
-
-1 Sprague's Annals, Vol. II., p. 367.
 was much enlarged, and the tone of Christian feeling and benevolent
 effort was greatly quickened and elevated.
 
@@ -1261,8 +1245,6 @@ while he lived."
 Dr. Hitchcock says of him in his " Reminiscences," " Dr. Fiske
 was a man of strong intellect and admirable judgment, conjoined
 with piety of the true Puritan stamp. He was just the man to
-
-25
 stand by the Institution while passing through an exigency.
 For having once settled his course by the chart of duty and put
 his hand to the helm, none of the cross currents of popular favor
@@ -1310,7 +1292,7 @@ or make an impression. . . . After a ministry of fifty-eight years
 and nearly five months among the same people, in a pleasant
 and retired home with a large family,
 
-' And that which should accompany old age,
+'And that which should accompany old age,
 As honor, love, obedience, troops of friends,'
 
 enjoying and being enjoyed by his friends to the end, praising
