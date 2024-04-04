@@ -46,6 +46,9 @@ glimpse(history_text)
 mosaic::tally(~ chapter, data = history_text)
 glimpse(history_anno)
 mosaic::tally(~ entity$entity_type, data = history_anno)
+glimpse(history_subtitles)
+glimpse(history_tables)
+glimpse(history_figures)
 ```
 
 

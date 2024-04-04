@@ -16,7 +16,7 @@ process_chapter <- function(filename) {
 }
 
 chapters <- # list.files("data-raw-dehyphenate", full.names = TRUE)
-  paste0("data-raw-dehyphenate/chapter", sprintf("%02d", 0:15), "_dehyphenate.txt")
+  paste0("data-raw-dehyphenate/chapter", sprintf("%02d", 0:29), "_dehyphenate.txt")
 history_text <-
   chapters |>
   purrr::map_dfr(process_chapter)
