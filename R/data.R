@@ -40,7 +40,7 @@
 
 #' History of Amherst College page sub titles
 #'
-#' XX More description?
+#' This is a table of the headings that accompany the page number on each page.
 #'
 #' @docType data
 #' @name history_subtitles
@@ -52,8 +52,10 @@
 #' @format
 #'   A data frame with XX observations on the following variables.
 #'   \itemize{
-#'     \item{\code{file_name}} {File name of scanned image (in extdata)}
-#'     \item{\code{house_or_not}}{House string in description (coarse way to identify houses)}
+#'     \item{\code{chapter}} {The chapter the heading is present in}
+#'     \item{\code{page_number}}{The page number the heading occurs on}
+#'     \item{\code{page_header}}{The actual string value of the heading}
+
 #'   }
 #'
 "history_subtitles"
