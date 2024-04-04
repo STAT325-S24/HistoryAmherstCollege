@@ -40,3 +40,9 @@ knitr::kable(sub_titles)
 ```
 
 ```{r}
+holyoke_subtitles <- sub_titles 
+usethis::use_data(holyoke_subtitles, overwrite = TRUE)
+```
+```
+
+```{r}
