@@ -1,6 +1,6 @@
 # History of Amherst College data package
 STAT325 class at Amherst College (Nicholas Horton)
-2024-04-03
+2024-04-04
 
 ## Text and analysis related to Williams S. Tyler’s “History of Amherst College” (1873)
 
@@ -46,6 +46,18 @@ glimpse(history_text)
     $ paragraph <dbl> 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, …
 
 ``` r
+mosaic::tally(~ chapter, data = history_text)
+```
+
+    Registered S3 method overwritten by 'mosaic':
+      method                           from   
+      fortify.SpatialPolygonsDataFrame ggplot2
+
+    chapter
+      00   01   02   03   04   05   06   07   08   09   10   11   12   13   14   15 
+     163  426  400  210  402  407  415  697  540  904 1349 1294  964 1110 1206  305 
+
+``` r
 glimpse(history_anno)
 ```
 
@@ -73,6 +85,18 @@ glimpse(history_anno)
       ..$ paragraph: num [1:10792] 1 1 1 1 2 2 2 2 3 3 ...
       ..$ doc_id   : int [1:10792] 1 2 3 4 5 6 7 8 9 10 ...
      - attr(*, "class")= chr [1:2] "cnlp_annotation" "list"
+
+``` r
+mosaic::tally(~ entity$entity_type, data = history_anno)
+```
+
+    entity$entity_type
+       CARDINAL        DATE       EVENT         FAC         GPE    LANGUAGE 
+            766        1430          10          46         933          26 
+            LAW         LOC       MONEY        NORP     ORDINAL         ORG 
+             19         150         158         313         284        1633 
+        PERCENT      PERSON     PRODUCT    QUANTITY        TIME WORK_OF_ART 
+              3        1714          20          17         107          61 
 
 ## Notes
 

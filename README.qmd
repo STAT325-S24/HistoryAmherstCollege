@@ -1,7 +1,7 @@
 ---
 title: "History of Amherst College data package"
 author: "STAT325 class at Amherst College (Nicholas Horton)"
-date: "2024-04-03"
+date: "2024-04-04"
 date-format: iso
 format: gfm
 editor: source
@@ -42,7 +42,9 @@ XX will go here...
 ```{r}
 packageVersion("HistoryAmherstCollege")
 glimpse(history_text)
+mosaic::tally(~ chapter, data = history_text)
 glimpse(history_anno)
+mosaic::tally(~ entity$entity_type, data = history_anno)
 ```
 
 
