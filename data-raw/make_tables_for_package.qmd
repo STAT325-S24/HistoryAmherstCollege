@@ -1,0 +1,69 @@
+---
+title: "Makes various tables for the package"
+author: "Casey Crary"
+date: "2024-04-04"
+date-format: iso
+format: pdf
+editor: source
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(tibble)
+```
+
+This makes both history_tables and history_figures
+
+```{r}
+# only uses first page of table
+history_tables <- tribble(
+  ~pdf_pg, ~book_pg, ~title,
+  15,  9,   "Contents",
+  335, 321, "Misc_Donations",
+  412, 392, "Principal_Donations",
+  493, 465, "Religious_Statistics_Of_The_Class_Of_69",
+  506, 478, "Day_Book_Expenses",
+  649, 607, "Date_And_Cost_Of_Building",
+  655, 613, "Cash_Funds_Of_Amherst_College",
+  657, 615, "Library_Numbers",
+  668, 626, "Statistics_Related_To_Student_Count",
+  676, 632, "Society_Timeline",
+  680, 636, "College_Periodicals",
+  688, 644, "Alumni_Occupation",
+  693, 649, "Donors_Appendix_A",
+  699, 655, "Bond_List",
+  701, 657, "Sample_Table"
+)
+
+usethis::use_data(history_tables, overwrite = TRUE)
+```
+
+```{r}
+# only uses pdf page number
+history_figures <- tribble(
+  ~pdf_pg, ~caption,
+  6,  "view_from_ne",
+  40, "view_from_mt_pleasant",
+  71, "ac_in_1821",
+  84, "zeph_swift_moore",
+  293, "h_humphrey",
+  341, "library_with_pres_house_and_college_hall",
+  372, "edward_hitchcock",
+  409, "william_a_stearns",
+  421, "williston_hall",
+  425, "walker_hall",
+  429, "college_church",
+  453, "mass_agricultural_college",
+  590, "hitchcock",
+  594, "william_walker",
+  598, "s_williston",
+  605, "e_s_snell",
+  612, "w_s_tyler",
+  642, "view_from_common",
+  647, "view_from_sw",
+  671, "plot_628"
+)
+
+usethis::use_data(history_figures, overwrite = TRUE)
+```
