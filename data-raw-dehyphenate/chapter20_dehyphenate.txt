@@ -70,6 +70,10 @@ to a result which, a few weeks ago, I could hardly have considered
 among the possibilities, viz : to accept the office you have
 conferred upon me, and to attempt the high duties it involves.
 
+
+
+890 HISTORY OF AMHERST COLLEGE.
+
 I do this relying on that cordial sympathy and co-operation on
 the part of the Trustees and honored Professors of the College
 which, I have been assured, will be truly accorded to me, and
@@ -177,8 +181,8 @@ is given, not only in justice to the donors, but also as showing
 the purpose of the donations and thus illustrating this portion
 of our history :
 
-[Table: Principal_Donation_XX, Page 392]
-[Table: Principal_Donation_XX, Page 392]
+[Table: Principal_Donation, Page 392]
+[Table: Principal_Donation, Page 392]
 
 [Note: * Estimated at $12,000 by the curator (Prof. E. Hitchcock,) but about $4,000 was
 paid out of State grants already mentioned out of the College treasury. Among
@@ -194,6 +198,7 @@ period can compare with it in the munificence of its public charities
 ; and there is no other form of public charity, for which
 wealthy and benevolent men have given more freely or more
 abundantly than for the endowment of institutions of learning.
+
 
 
 394 HISTORY OF AMHERST COLLEGE.
@@ -316,7 +321,6 @@ nominal, and were paid out of the College treasury. The first
 regular prizes given by an individual for successive years were
 given by Joseph Sweetser, Esq., a former resident of Arnherst,
 but then residing in New York City. These were given under
-
 the presidency of Dr. Hitchcock. In 1857, Hon. Alpheus Hardy
 of Boston established the Hardy Prizes for improvement in Extemporaneous
 Speaking ; and now we have a thousand dollars
@@ -394,7 +398,6 @@ raised the money to pay all the expenses, superintended
 the whole business, and in short manifested scarcely less interest
 in these foot-prints of former generations of men, than in the
 ichnolites of the pre-Adamic earth in his own cabinet.
-
 The next public buildings were the result of a calamity which,
 as not unfrequently happens, proved a blessing in disguise. One
 cold and stormy night in the winter of 1857, when the northwest
@@ -510,7 +513,6 @@ he left in his will a legacy of five thousand dollars, the income
 of which is to be annually expended for similar purposes.
 
 The principal of the Walker building fund (one hundred
-
 thousand dollars) was filled up in 1864. At a special meeting
 of the Trustees in November, 1866, they appointed a Building
 Committee of their own number. This committee consisted of
@@ -726,7 +728,7 @@ while the word chapel, from the Latin capella, has no Christian
 significance in its etymology but means only a short cloak, hood
 or cowl and was first used, it is said, to designate the tent in
 which St. Martin's hat or cowl was preserved, the word church
-firicls its origin and its meaning in the Christian epithet KvQiaxoz,
+find its origin and its meaning in the Christian epithet KvQiaxoz,
 belonging to the Lord, and which, while it is a proper designation
 alike for an assembly of believers and for the consecrated
 place in which they worship, is just as appropriate for a small
@@ -736,7 +738,7 @@ Rev. Mr. Gushing in his appropriate and instructive address,
 spoke of the American College, as not merely an educational
 institution, but having a distinctively religious character, founded
 originally for Christ and the Church and intended primarily to
-educate me'n for the gospel ministry. But this primary idea
+educate men for the gospel ministry. But this primary idea
 and intention of the College, he insisted, was endangered by the
 secularizing and materialistic spirit of the age which would paganize
 the public schools, and make the College a University
@@ -897,11 +899,8 @@ preserved, but animation and cheerfulness, and a higher order
 of efficient study and intellectual life would be secured. It will
 be for the consideration of this Board, whether, for the encouragement
 of this sort of exercise, the time has not come when
-efficient measures should be taken for the erection of a gynmao/
-
-
-
-sium, and the procuring of" its proper appointments." The
+efficient measures should be taken for the erection of a gynmasium,
+and the procuring of "its proper appointments." The
 Trustees accordingly chose a committee consisting of the President,
 Dr. Nathan Allen, Henry Edwards, Esq., and Hon. Alexander
 H. Bullock, who reported at once in favor of an immediate
@@ -1076,7 +1075,6 @@ of the Corporation to subject present incumbents to examination,
 gave offence to Dr. Walker, and turned him aside from his plan of
 endowing the Medical Department of Harvard University.] to consist
 in part of precise and accurate
-
 knowledge of the fundamental truths of Geometry, Arithmetic,
 Algebra and Trigonometry, and in part of the ability to
 perform the elementary operations of Mathematics with rapidity
@@ -1156,9 +1154,8 @@ the same time lowered somewhat the general standard of mathematical
 discipline and attainment. The Professors in the other
 departments, I am sure, would be reluctant to be subjected
 to all its rules and regulations. Messrs. William B. Graves of
-the Class of '62, Thomas D. Biscoe of '63, and John K. Richard27
-
-son of '69, have successively filled the office of Walker Instructor
+the Class of '62, Thomas D. Biscoe of '63, and John K. Richardson
+of '69, have successively filled the office of Walker Instructor
 in Mathematics, in such a manner as to meet fully the high
 demands of the founder. The first two are now Professors in
 western colleges the last is the present incumbent.
@@ -1279,8 +1276,6 @@ to the department of Natural Philosophy from 1828 to 1869 has
 been about sixty-five dollars per year a sum which could hardly
 be expected to do more than keep the apparatus in tolerable
 repair." " Now that the collection is to occupy a spacious and
-I
-
 handsome apartment," he proceeds to say, " I trust the Walker
 funds will avail to replace many cheap-looking instruments by
 more comely and fitting ones, as well as to add a number of others
@@ -1677,7 +1672,6 @@ A growing interest in preaching and a desire for the work of
 the ministry, somewhat quickened, it may be, by some friction in
 matters pertaining to the Library, led him in 1855 to accept a
 call to the pastoral office in Nashua, N. H.
-
 At the annual meeting of the Trustees in 1856, Mr. Lyman
 R. "Williston, of the Class of '50, was chosen Professor in this
 department, with liberty to continue his studies another year in
@@ -1718,8 +1712,6 @@ classes.
 Subject to change as usual, the Rhetorical Department has had
 three different incumbents since Dr. Stearns entered upon the
 presidency. Rev. Thomas P. Field, of the Class of '34, was
-
-
 chosen Professor in this department at a special meeting of the
 Trustees held in Amherst, November 21, 1853, just a year previous
 to the ordination and inauguration of President Stearns,
@@ -1816,7 +1808,6 @@ assistance also to Prof. Hitchcock in the gymnasium, thus
 relieving the Professors in two departments which at certain
 points are somewhat closely related to each other, and both of
 which involve labors almost without end.
-
 
 The Professor of Rhetoric and Oratory has received the assistance
 also of a more experienced elocutionist for a limited
