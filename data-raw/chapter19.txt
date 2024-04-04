@@ -1,7 +1,6 @@
 CHAPTER XIX.  
  
-BIOGRAPHICAL SKETCHES OF DR. HITCHCOCK AND SOME OF  
-.HIS ASSOCIATES.  
+BIOGRAPHICAL SKETCHES OF DR. HITCHCOCK AND SOME OF HIS ASSOCIATES. 355
  
 DR. HITCHCOCK'S " Reminiscences of Amherst College " is at  
 the sazae time an autobiography, almost the last production of  
@@ -33,7 +32,7 @@ on retiring from the presidency, November 22, 1854; was ap-
  
  
  
-356 HISTORY OF AMHEEST COLLEGE.  
+356 HISTORY OF AMHERST COLLEGE.  
  
 pointed to complete the Geological Survey of the State of Ver-  
 mont, in April, 1857 ; and continued to lecture, in the depart-  
@@ -209,7 +208,6 @@ on public occasions. He revised his principal works and pub-
 lished new ones. The second edition of his Religion of Geol-  
 ogy, considerably enlarged, was issued in 1859, the thirty-first  
 edition of his Elementary Geology, re-written, appeared in 1860,  
-   
  
  
  
@@ -538,8 +536,6 @@ his health and partly for the sake of scientific explorations and
 collections, to visit the tropical climates, he spent the winters of  
 1844-5 and 1848-9 in Jamaica, and 1850-1 at Panama. In  
  
-
-
  
  
 PROFESSOR ADAMS. 367  
@@ -626,11 +622,10 @@ Nine Trustees terminated their connection with the College
 by death or resignation during the presidency of Dr. Hitchcock.  
  
 Rev. Theophilus Packard, D. D., was, as we have related in a  
-   
  
  
  
-DR. PACKARD.  
+DR. PACKARD. 369
  
 former chapter, the mover of the resolution iu the Franklin  
 Association of Congregational Ministers which first publicly rec-  
@@ -675,7 +670,7 @@ presence of a large assemblage of Ministers and Christians con-
  
  
  
-370 HISTOIIY OF AMHERST COLLEGE.  
+370 HISTORY OF AMHERST COLLEGE.  
  
 vened at Shelburne to attend the Franklin County Church Con-  
 ference and Benevolent Anniversaries. In this sermon, which  
@@ -1113,7 +1108,7 @@ Hitchcock's presidency. Dr. Hitchcock, in his " Reminiscences,"
  
  
  
-380 HISTORY O? AMHERST COLLEGE.  
+380 HISTORY OF AMHERST COLLEGE.  
  
 alludes to his " nice sense of propriety," testifies to his conscien-  
 tious support of the College during its season of deepest depres-  
@@ -1200,7 +1195,6 @@ for his health in the Southern States and in Europe from Octo-
 ber, 1845, till May, 1847 ; went to the South again in the au-  
 tumn of 1851 ; and died at Athens, Ga., April 20, 1852, want-  
 ing a few months of being fifty years of age.  
-      
  
  
  
@@ -1246,7 +1240,6 @@ ining committee, now to deliver an address, now to organize a
 society of alumni, now to preside over its meetings. Still more  
 frequently was he consulted by letter or by committee ; and his  
 advice, constantly asked and freely but modestly given, was a  
-   
  
  
  
@@ -1327,11 +1320,11 @@ val which continued between two and three years, and increased
 greatly both the moral and the numerical strength of the church.  
 In 1818-19, another and still more powerful revival occurred,  
 the result of which was an addition to the church of more than  
-ninety persons of all ages and conditions. l There were several  
+ninety persons of all ages and conditions. 
+[Sprague's Annals, Vol. II., p. 367.]
+There were several  
 other interesting revivals during his ministry, by which and by  
 the blessing of heaven on his wise and faithful labors the church  
- 
-1 Sprague's Annals, Vol. II., p. 367.  
  
  
  
@@ -1378,8 +1371,11 @@ Dr. Hitchcock says of him in his " Reminiscences," " Dr. Fiske
 was a man of strong intellect and admirable judgment, conjoined  
 with piety of the true Puritan stamp. He was just the man to  
  
+<<<<<<< Updated upstream
 
  
+=======
+>>>>>>> Stashed changes
  
  
 386 HISTORY OF AMHERST COLLEGE.  
