@@ -1371,11 +1371,6 @@ Dr. Hitchcock says of him in his " Reminiscences," " Dr. Fiske
 was a man of strong intellect and admirable judgment, conjoined  
 with piety of the true Puritan stamp. He was just the man to  
  
-<<<<<<< Updated upstream
-
- 
-=======
->>>>>>> Stashed changes
  
  
 386 HISTORY OF AMHERST COLLEGE.  
@@ -1432,7 +1427,7 @@ or make an impression. . . . After a ministry of fifty-eight years
 and nearly five months among the same people, in a pleasant  
 and retired home with a large family,  
  
-' And that which should accompany old age,  
+'And that which should accompany old age,  
 As honor, love, obedience, troops of friends,'  
  
 enjoying and being enjoyed by his friends to the end, praising  
