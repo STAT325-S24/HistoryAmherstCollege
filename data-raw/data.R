@@ -1,6 +1,5 @@
 library(tidyverse)
 library(cleanNLP)
-history_text <- tibble(x = 1, y = 2)
 
 process_chapter <- function(filename) {
   if (!file.exists(filename)) stop("File not found")
@@ -17,7 +16,7 @@ process_chapter <- function(filename) {
 }
 
 chapters <- # list.files("data-raw-dehyphenate", full.names = TRUE)
-  paste0("data-raw-dehyphenate/chapter", sprintf("%02d", 0:10), "_dehyphenate.txt")
+  paste0("data-raw-dehyphenate/chapter", sprintf("%02d", 0:15), "_dehyphenate.txt")
 history_text <-
   chapters |>
   purrr::map_dfr(process_chapter)

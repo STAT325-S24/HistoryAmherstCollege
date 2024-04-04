@@ -40,6 +40,7 @@ library(HistoryAmherstCollege)
 XX will go here...
 
 ```{r}
+packageVersion("HistoryAmherstCollege")
 glimpse(history_text)
 glimpse(history_anno)
 ```
