@@ -11,6 +11,7 @@ editor: source
 #| label: setup
 #| include: false
 library(tidyverse)
+library(mosaic)
 library(HistoryAmherstCollege)
 ```
 

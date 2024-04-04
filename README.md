@@ -49,10 +49,6 @@ glimpse(history_text)
 mosaic::tally(~ chapter, data = history_text)
 ```
 
-    Registered S3 method overwritten by 'mosaic':
-      method                           from   
-      fortify.SpatialPolygonsDataFrame ggplot2
-
     chapter
       00   01   02   03   04   05   06   07   08   09   10   11   12   13   14   15 
      163  426  400  210  402  407  415  697  540  904 1349 1294  964 1110 1206  305 
