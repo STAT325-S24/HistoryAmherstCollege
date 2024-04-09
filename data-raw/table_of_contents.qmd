@@ -36,7 +36,7 @@ fix_up_lines <- function(line) {
 ```
 
 ```{r}
-  toc <- readLines("./toc.txt")|>
+  history_toc <- readLines("./toc.txt")|>
     as_tibble() |>
     mutate(
       line = fix_up_lines(value)
@@ -55,9 +55,9 @@ fix_up_lines <- function(line) {
   )|>
   rename("title" = line) 
   
-  toc
+  history_toc
     
-  
+  usethis::use_data(history_toc, overwrite = TRUE)
 
 
 ```
