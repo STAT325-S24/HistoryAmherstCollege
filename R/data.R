@@ -102,3 +102,25 @@
 #'   }
 #'
 "history_figures"
+
+#' History of Amherst College Table of Contents
+#'
+#' This table contains the page number and the titles for every chapter in the book including the Appendix
+#'
+#' @docType data
+#' @name history_toc
+#' @usage data(history_toc)
+#'
+#' @keywords datasets
+#'
+#' @source See https://archive.org/details/historyofamherst00tyleiala for the book in a variety of formats.
+#' @format
+#'   A data frame with 29 observations on the following variables.
+#'   \itemize{
+#'     \item{\code{title}} {The title of the chapter}
+#'     \item{\code{page_number}}{The page number where the chapter starts}
+#'     \item{\code{chapter}}{The chapter number}
+#'   }
+#'
+"history_toc"
+
