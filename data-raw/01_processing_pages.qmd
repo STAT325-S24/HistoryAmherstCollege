@@ -74,7 +74,7 @@ for(i in 0:max_chapter) {
   
 }
 
-print(table_full, n = 600)
+print(table_full, n = 700)
 
 ```
 
