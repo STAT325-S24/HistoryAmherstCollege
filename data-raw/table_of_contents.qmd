@@ -48,7 +48,7 @@ fix_up_lines <- function(line) {
   filter(str_detect(value, "[:upper:]{2,}")) |>
   select (line) |>
   mutate(
-    page_num = str_match(line, "\\d+$")
+    page_number = str_match(line, "\\d+$")
   ) |>
   mutate(
     chapter = row_number()
