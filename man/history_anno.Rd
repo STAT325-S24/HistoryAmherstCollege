@@ -5,10 +5,11 @@
 \alias{history_anno}
 \title{History of Amherst College annotated text}
 \format{
-A data frame with XX observations on the following variables.
+A list (also cnlp_annotation class, see cleanNLP package) with 3 objects on the following variables .
 \itemize{
-\item{\code{file_name}} {File name of scanned image (in extdata)}
-\item{\code{house_or_not}}{House string in description (coarse way to identify houses)}
+\item{\code{token}} {tibble of token information}
+\item{\code{entity}}{tibble containing entity information}
+\item{\code{document}}{document information}
 }
 }
 \source{
@@ -18,6 +19,6 @@ See https://archive.org/details/historyofamherst00tyleiala for the book in a var
 data(history_anno)
 }
 \description{
-XX More description?
+Annotated entities from the cleanNLP package.
 }
 \keyword{datasets}

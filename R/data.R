@@ -1,6 +1,6 @@
 #' History of Amherst College text
 #'
-#' XX More description?
+#' The text of the 1873 book "A History of Amherst College" by William Seymour Tyler.
 #'
 #' @docType data
 #' @name history_text
@@ -12,15 +12,17 @@
 #' @format
 #'   A data frame with XX observations on the following variables.
 #'   \itemize{
-#'     \item{\code{file_name}} {File name of scanned image (in extdata)}
-#'     \item{\code{house_or_not}}{House string in description (coarse way to identify houses)}
+#'     \item{\code{text}} {text of the book}
+#'     \item{\code{chapter}{chapter number}
+#'     \item{\code{paragraph}{paragraph in the chapter}
+#'     \item{\code{page_number}{page number in the book}
 #'   }
 #'
 "history_text"
 
 #' History of Amherst College annotated text
 #'
-#' XX More description?
+#' Annotated entities from the cleanNLP package.
 #'
 #' @docType data
 #' @name history_anno
@@ -30,10 +32,11 @@
 #'
 #' @source See https://archive.org/details/historyofamherst00tyleiala for the book in a variety of formats.
 #' @format
-#'   A data frame with XX observations on the following variables.
+#'   A list (also cnlp_annotation class, see cleanNLP package) with 3 objects on the following variables .
 #'   \itemize{
-#'     \item{\code{file_name}} {File name of scanned image (in extdata)}
-#'     \item{\code{house_or_not}}{House string in description (coarse way to identify houses)}
+#'     \item{\code{token}} {tibble of token information}
+#'     \item{\code{entity}}{tibble containing entity information}
+#'     \item{\code{document}}{document information}
 #'   }
 #'
 "history_anno"
@@ -99,5 +102,3 @@
 #'   }
 #'
 "history_figures"
-
-

@@ -7,8 +7,10 @@
 \format{
 A data frame with XX observations on the following variables.
 \itemize{
-\item{\code{file_name}} {File name of scanned image (in extdata)}
-\item{\code{house_or_not}}{House string in description (coarse way to identify houses)}
+\item{\code{text}} {text of the book}
+\item{\code{chapter}{chapter number}
+\item{\code{paragraph}{paragraph in the chapter}
+\item{\code{page_number}{page number in the book}
 }
 }
 \source{
@@ -18,6 +20,6 @@ See https://archive.org/details/historyofamherst00tyleiala for the book in a var
 data(history_text)
 }
 \description{
-XX More description?
+The text of the 1873 book "A History of Amherst College" by William Seymour Tyler.
 }
 \keyword{datasets}

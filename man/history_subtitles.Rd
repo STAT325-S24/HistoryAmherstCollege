@@ -5,7 +5,7 @@
 \alias{history_subtitles}
 \title{History of Amherst College page sub titles}
 \format{
-A data frame with XX observations on the following variables.
+A data frame with 636 observations on the following variables.
 \itemize{
 \item{\code{chapter}} {The chapter the heading is present in}
 \item{\code{page_number}}{The page number the heading occurs on}
