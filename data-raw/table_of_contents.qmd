@@ -23,11 +23,12 @@ fix_up_lines <- function(line) {
     line[i] <- str_trim(line[i])
     if (str_detect(line[i], "-$")) {
       padding <- str_match(line[i+1], "[\\w\\d]+ ")
-      line[i] <- paste(str_sub(line[i], start=1, end=-2), padding, sep="")
+      line[i] <- paste(str_sub(line[i], start=1, end=-2), line [i+1], sep="")
       line[i] <- str_trim(line[i])
-      line[i+1] <- str_replace(line[i+1], padding, "")
+      line[i+1] <- str_replace(line[i+1], line [i+1], "r")
     }
   }
+  
   #print(line)
   return(line)
 }
@@ -35,40 +36,28 @@ fix_up_lines <- function(line) {
 ```
 
 ```{r}
-path <- getwd()
-  toc <- readLines(paste(path, "/data-raw/", "toc.txt", sep = ""))|>
+  toc <- readLines("./toc.txt")|>
     as_tibble() |>
     mutate(
       line = fix_up_lines(value)
     ) |>
+  filter(str_detect(line, "^r") == FALSE) |>
     filter(str_detect(value, "^CHAP") == FALSE) |>
     filter(str_detect(value, ".+")) |>
-    filter(str_detect(value, "CONTENTS") == FALSE)
+    filter(str_detect(value, "CONTENTS") == FALSE) |>
+  filter(str_detect(value, "[:upper:]{2,}")) |>
+  select (line) |>
+  mutate(
+    page_num = str_match(line, "\\d+$")
+  ) |>
+  mutate(
+    chapter = row_number()
+  )|>
+  rename("title" = line) 
+  
   toc
     
   
 
 
-
-# table titles are tentative - need review
-table_of_tables <- tribble(
-  ~pdf_pg, ~book_pg, ~title,
-  15,  9,   "Contents_XX",
-  335, 321, "Misc_Donations_XX",
-  412, 392, "Principal_Donations_XX",
-  493, 465, "Religious_Statistics_Of_The_Class_Of_'69_XX",
-  506, 478, "Day_Book_Expenses_XX_MaybeUnnecessary",
-  649, 607, "Date_And_Cost_Of_Buildings_XX",
-  655, 613, "Cash_Funds_Of_Amherst_College_XX",
-  657, 615, "Library_Numbers_XX",
-  668, 626, "Statistics_Related_To_Student_Count_XX",
-  676, 632, "Society_Timeline_XX",
-  680, 636, "College_Periodicals_XX",
-  688, 644, "Alumni_Occupation_XX",
-  693, 649, "Donors_AppA_XX",
-  699, 655, "Bond_List_XX",
-  701, 657, "Sample_Table_XX"
-)
-
-table_of_tables
 ```
