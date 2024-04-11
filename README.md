@@ -150,6 +150,29 @@ The above table shows us the 6 most common names in the book. Some
 familiar ones immediately pop out, such as Hitchcock, the eponym of the
 “Hitchcock Residence Hall.”
 
+``` r
+history_anno$token |>
+  filter(upos == "NOUN") |>
+  group_by(token) |>
+  count() |>
+  arrange(desc(n)) |>
+  head(6)
+```
+
+    # A tibble: 6 × 2
+    # Groups:   token [6]
+      token        n
+      <chr>    <int>
+    1 students   257
+    2 time       251
+    3 years      206
+    4 dollars    174
+    5 year       144
+    6 meeting    138
+
+The above table displays the 6 most common nouns in the text.
+Unsurprisingly, we see “students” as the most common noun.
+
 ## Notes
 
 - The index was not included in the text in the package
