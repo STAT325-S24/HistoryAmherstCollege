@@ -10,8 +10,10 @@ website:
          text: Home
       -  href: book_info.qmd
          text: Book Info
-      -  href: data_info.qmd
-         text: Data Info
+      -  href: example_text.qmd
+         text: Example Text
+      -  href: example_analysis.qmd
+         text: Example Analysis
     
 format:
   html:

@@ -8,10 +8,17 @@ format:
     toc-location: left
     
 ---
+# Background
+This website provides the text and analysis of William Seymour Tyler's _History of Amherst College during its first half century, 1821-1871_. 
 
-# Heading 1
-Here is some more *text* and a link: [book_info.qmd](book_info.qmd). 
+Click  [here](https://archive.org/details/historyofamherst00tyleiala) to see the book in a variety of formats. As part of this project, we processed the scanned-in text version of book to create a more clean and organized form. that is available as an R package.
 
-## Heading 2
+The [Book Info Tab](book_info.qmd) gives more information about the publication of the book.
 
-Here is even more text and another link: [data_info.qmd](data_info.qmd).
+# Explore the text
+Use the [Example Text Tab](example_text.qmd) to see some examples of the cleaned text as well as an example of the Table of Contents.
+
+# Sample Analysis
+Use the [Example Analysis Tab](example_analysis.qmd) to explore a sample analysis of the book. 
+
+

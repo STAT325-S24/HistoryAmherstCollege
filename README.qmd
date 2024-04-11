@@ -38,7 +38,7 @@ library(HistoryAmherstCollege)
 
 ## Example analyses
 
-XX will go here...
+The following is a glimpse of the packages dataframes along with a sample analysis using Named Entity Recognition. 
 
 ```{r}
 packageVersion("HistoryAmherstCollege")
@@ -51,6 +51,27 @@ glimpse(history_tables)
 glimpse(history_figures)
 ```
 
+```{r}
+history_anno$entity |>
+  filter(entity_type == "PERSON") |>
+  group_by(entity) |>
+  count() |>
+  arrange(desc(n)) |>
+  head(6)
+```
+
+The above table shows us the 6 most common names in the book.  Some familiar ones immediately pop out, such as Hitchcock, the eponym of the "Hitchcock Residence Hall."
+
+```{r}
+history_anno$token |>
+  filter(upos == "NOUN") |>
+  group_by(token) |>
+  count() |>
+  arrange(desc(n)) |>
+  head(6)
+```
+
+The above table displays the 6 most common nouns in the text.  Unsurprisingly, we see "students" as the most common noun.
 
 ## Notes
 
