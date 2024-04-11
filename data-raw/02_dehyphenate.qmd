@@ -1,7 +1,7 @@
 ---
-author: "Adam, Frankie"
+author: "Adam, Frankie, edits by Nicholas Horton (nhorton@amherst.edu)"
 title: "Wrangling Page Breaks & Subtitles"
-date: today
+date: "2024-04-11"
 date-format: iso
 format: pdf
 ---
@@ -21,7 +21,10 @@ fix_up_lines <- function(file) {
   n <- length(chapter_lines)
   for (i in 1 : n) {
     chapter_lines[i] <- str_trim(chapter_lines[i])
-    if (str_detect(chapter_lines[i], "-$")) {
+    find_match <- str_detect(chapter_lines[i], "-$")
+    if (is.na(find_match)) 
+      stop(paste0("Error: find_match is NA at line ", i, " of file ", file))
+    if (find_match) {
       next_line <- 1
       if (str_trim(chapter_lines[i+1]) == "") next_line <- 2
       padding <- str_match(chapter_lines[i+next_line], "[\\w+\\d]+[:punct:]?")
