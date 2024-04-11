@@ -41,16 +41,16 @@ fix_up_lines <- function(line) {
     mutate(
       line = fix_up_lines(value)
     ) |>
-  filter(str_detect(line, "^r") == FALSE) |>
-    filter(str_detect(value, "^CHAP") == FALSE) |>
-    filter(str_detect(value, ".+")) |>
-    filter(str_detect(value, "CONTENTS") == FALSE) |>
-  filter(str_detect(value, "[:upper:]{2,}")) |>
-  select (line) |>
+  filter(
+    str_detect(line, "^r") == FALSE, 
+    str_detect(value, "^CHAP") == FALSE,
+    str_detect(value, ".+"),
+    str_detect(value, "CONTENTS") == FALSE,
+    str_detect(value, "[:upper:]{2,}")
+   ) |>
+  select(line) |>
   mutate(
-    page_number = str_match(line, "\\d+$")
-  ) |>
-  mutate(
+    page_number = str_match(line, "\\d+$"),
     chapter = row_number()
   )|>
   rename("title" = line) 
