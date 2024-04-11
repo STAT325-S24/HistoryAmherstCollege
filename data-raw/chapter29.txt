@@ -6,6 +6,10 @@ A.
 NAMES, RESIDENCE AND AMOUNT OF THE ORIGINAL SUBSCRIP-  
 TION TO THE CHARITY FUND OF AMHERST COLLEGE,  
  
+ 
+ 
+SUBSCRIBERS TO THE CHARITY FUND.  649  
+ 
 [Table: Donors_AppA, Page 649]
  
  
@@ -14,10 +18,10 @@ TION TO THE CHARITY FUND OF AMHERST COLLEGE,
  
 [Table: Donors_AppA, Page 649]
  
-
+ 
  
 SUBSCRIBERS TO THE CHARITY FUND.  651  
-
+ 
 [Table: Donors_AppA, Page 649]
  
  
@@ -31,8 +35,8 @@ SUBSCRIBERS TO THE CHARITY FUND.  651
 SUBSCRIBERS TO THE CHARITY FUND.  653  
  
 [Table: Donors_AppA, Page 649]
-
-
+ 
+ 
  
 654  HISTORY OF AMHERST COLLEGE.  
  
@@ -140,8 +144,8 @@ the honor of our Redeemer and the best interests of man, we cheerfully subscribe
  
  
  
-658  HISTORY OF AMHERST COLLEGE.  
-  
+658  HISTORY OF AMHERST COLLEGE.
+ 
 [Table: Sample_Table, Page 657]
  
 The entire subscription is not copied in all these towns. But a fair specimen is  
@@ -239,7 +243,7 @@ tained for that purpose, what do these Trustees do? He would not say, they ex-
 actly put it in their own pockets but they had a kind of ambition they had rather  
 be Presidents, Trustees and Professors than to have others imported perhaps they  
 thought Williams College not hopefully pious enough, and so they made a College   
-
+ 
  
  
 660 HISTORY OF AMHERST COLLEGE.  
