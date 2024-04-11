@@ -8,9 +8,9 @@
 A data frame with XX observations on the following variables.
 \itemize{
 \item{\code{text}} {text of the book}
-\item{\code{chapter}{chapter number}
-\item{\code{paragraph}{paragraph in the chapter}
-\item{\code{page_number}{page number in the book}
+\item{\code{chapter}}{chapter number}
+\item{\code{paragraph}}{paragraph in the chapter}
+\item{\code{page_number}}{page number in the book}
 }
 }
 \source{

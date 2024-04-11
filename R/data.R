@@ -13,9 +13,9 @@
 #'   A data frame with XX observations on the following variables.
 #'   \itemize{
 #'     \item{\code{text}} {text of the book}
-#'     \item{\code{chapter}{chapter number}
-#'     \item{\code{paragraph}{paragraph in the chapter}
-#'     \item{\code{page_number}{page number in the book}
+#'     \item{\code{chapter}}{chapter number}
+#'     \item{\code{paragraph}}{paragraph in the chapter}
+#'     \item{\code{page_number}}{page number in the book}
 #'   }
 #'
 "history_text"
@@ -53,11 +53,13 @@
 #'
 #' @source See https://archive.org/details/historyofamherst00tyleiala for the book in a variety of formats.
 #' @format
-#'   A data frame with 636 observations on the following variables.
+#'   A data frame with XX observations on the following variables.
 #'   \itemize{
 #'     \item{\code{chapter}} {The chapter the heading is present in}
 #'     \item{\code{page_number}}{The page number the heading occurs on}
 #'     \item{\code{page_header}}{The actual string value of the heading}
+#'     \item{\code{first_line}}{Text of the first line on that page (may include first part of hyphenated words)}
+
 #'   }
 #'
 "history_subtitles"

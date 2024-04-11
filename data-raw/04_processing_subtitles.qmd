@@ -1,7 +1,7 @@
 ---
 title: "Postprocessing subtitles"
 author: "Nicholas Horton (nhorton@amherst.edu)"
-date: 2024-04-04
+date: 2024-04-11
 date-format: iso
 format: pdf
 ---
@@ -34,15 +34,13 @@ postprocess_chapter <- function(chapter_name) {
 
 ```{r}
 sub_titles <- chapters |>
-  purrr::map_dfr(postprocess_chapter) |>
-  select(chapter, page_number, page_header)
-knitr::kable(sub_titles)
+  purrr::map_dfr(postprocess_chapter)
+sub_titles |>
+  select(chapter, page_number, page_header) |>
+knitr::kable()
 ```
 
 ```{r}
 history_subtitles <- sub_titles 
 usethis::use_data(history_subtitles, overwrite = TRUE)
 ```
-```
-
-```{r}
