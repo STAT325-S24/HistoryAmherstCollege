@@ -1,0 +1,36 @@
+---
+title: "Add Page Numbers"
+author: "Tyler Knightly"
+format: pdf
+editor: source
+---
+
+```{r}
+library(tidyverse)
+library(HistoryAmherstCollege)
+library(stringr)
+```
+
+
+```{r}
+full_text <- history_text
+first_line_table <- history_subtitles
+
+full_text$page_num = NA
+
+compare_lines <- function(line, pnum){
+  
+  # cut line to only words 2 through nwords - 1
+  # use line of code below to extract the row number from history_text
+  line_num <- which(str_detect(history_text$text, line) == TRUE)
+  
+  #take row number and add page number to page_num variable in full_text at that row
+}
+
+
+# loop through history_subtitles 
+  # pass first line into function
+
+
+```
+
