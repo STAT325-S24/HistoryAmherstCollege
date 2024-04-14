@@ -20,5 +20,6 @@ Our mission was to take the text file for this historic text and make it accessi
 Here is the table of contents.
 
 ```{r}
+#| echo: false
 kable(history_toc)
 ```

@@ -6,11 +6,11 @@ title-block-banner: true
 
 ```{r, include = FALSE}
 library(dplyr)
-devtools::install_github("STAT325-S24/HistoryAmherstCollege")
+#devtools::install_github("STAT325-S24/HistoryAmherstCollege")
 library(HistoryAmherstCollege)
 ```
 
-Here is an example of the first ten chapters in the Table of Contents of the novel:
+Here is an listing of the first ten chapters in the Table of Contents:
 
 ```{r, echo = FALSE}
 head(history_toc, 10) |>
@@ -18,14 +18,16 @@ head(history_toc, 10) |>
   kableExtra::kable(booktabs = TRUE, col.names = c("Chapter", "Page Number", "Subtitle"))
 ```
 
-The following is an example of the cleaned text that is available in the `HistoryAmherstCollege` package. Chapter 3 is shown below.
+The following is an example of the cleaned text that is available in the `HistoryAmherstCollege` package.
+The first part of Chapter 3 is shown below.
 
 ```{r, echo = FALSE}
 history_text |>
   filter(chapter == "03") |>
   select(-chapter) |>
-  kableExtra::kable(booktabs = TRUE, col.names = c("Text", "Paragraph Number"))
+  kableExtra::kable(
+    booktabs = TRUE, 
+    col.names = c("Text", "Paragraph Number", "Page Number"))
 ```
 
 
-This data is XX.
