@@ -1,0 +1,19 @@
+---
+title: "Data package in R"
+page-layout: full
+title-block-banner: true
+---
+
+
+
+The book is available as a data package in R.
+
+Installation instructions:
+
+
+```
+devtools::install_github("STAT325-S24/HistoryAmherstCollege")
+library(HistoryAmherstCollege)
+```
+
+Location of data package: https://https://github.com/STAT325-S24/HistoryAmherstCollege

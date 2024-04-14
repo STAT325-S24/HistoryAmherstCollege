@@ -60,7 +60,9 @@ for (i in 1:nrow(history_updated)) {
     history_text$page_num[line_page_starts] <- history_updated$page_number[i]
   }
 }
-
+history_text$page_num[1] <- 1
+history_text <- history_text |>
+  fill(page_num)
 
 usethis::use_data(history_text, overwrite = TRUE)
 

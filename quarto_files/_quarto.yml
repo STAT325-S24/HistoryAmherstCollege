@@ -3,17 +3,17 @@ project:
   output-dir: ../docs
   
 website: 
-  title: "The History of Amherst College"
+  title: "The History of Amherst College (Tyler, 1873)"
   navbar:
     left: 
       -  href: index.qmd
          text: Home
       -  href: book_info.qmd
-         text: Book Info
+         text: Book info
       -  href: example_text.qmd
-         text: Example Text
-      -  href: example_analysis.qmd
-         text: Example Analysis
+         text: Example text
+      -  href: data_package.qmd
+         text: Data package
     
 format:
   html:

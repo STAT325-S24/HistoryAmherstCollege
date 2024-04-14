@@ -1,6 +1,7 @@
-# History of Amherst College data package
+History of Amherst College data package
+================
 STAT325 class at Amherst College (Nicholas Horton)
-2024-04-04
+2024-04-14
 
 ## Text and analysis related to Williams S. Tyler’s “History of Amherst College” (1873)
 
@@ -34,7 +35,7 @@ sample analysis using Named Entity Recognition.
 packageVersion("HistoryAmherstCollege")
 ```
 
-    [1] '0.5'
+    [1] '0.7'
 
 ``` r
 glimpse(history_text)
@@ -61,28 +62,28 @@ glimpse(history_anno)
 ```
 
     List of 3
-     $ token   : tibble [116,596 × 10] (S3: tbl_df/tbl/data.frame)
-      ..$ doc_id       : int [1:116596] 1 1 1 1 1 1 1 1 1 1 ...
-      ..$ sid          : int [1:116596] 1 1 1 1 1 1 1 1 1 2 ...
-      ..$ tid          : int [1:116596] 1 2 3 4 5 6 7 8 9 1 ...
-      ..$ token        : chr [1:116596] "Amherst" "College" "DUrING" "ITS" ...
-      ..$ token_with_ws: chr [1:116596] "Amherst " "College " "DUrING " "ITS " ...
-      ..$ lemma        : chr [1:116596] "Amherst" "College" "during" "its" ...
-      ..$ upos         : chr [1:116596] "PROPN" "PROPN" "ADP" "PRON" ...
-      ..$ xpos         : chr [1:116596] "NNP" "NNP" "IN" "PRP$" ...
-      ..$ tid_source   : int [1:116596] 2 0 2 7 7 7 3 2 8 3 ...
-      ..$ relation     : chr [1:116596] "compound" "root" "prep" "poss" ...
-     $ entity  : tibble [7,690 × 6] (S3: tbl_df/tbl/data.frame)
-      ..$ doc_id     : int [1:7690] 1 1 1 2 3 4 6 6 7 8 ...
-      ..$ sid        : int [1:7690] 1 1 2 1 1 1 1 1 1 1 ...
-      ..$ tid        : int [1:7690] 1 4 1 2 5 4 1 3 1 1 ...
-      ..$ tid_end    : int [1:7690] 2 7 3 4 5 8 1 3 3 1 ...
-      ..$ entity_type: chr [1:7690] "ORG" "DATE" "DATE" "PERSON" ...
-      ..$ entity     : chr [1:7690] "Amherst College" "ITS FIRST HALF CENTURY" "1821-1871" "W. S. TYLER" ...
-     $ document: tibble [10,792 × 3] (S3: tbl_df/tbl/data.frame)
-      ..$ chapter  : chr [1:10792] "00" "00" "00" "00" ...
-      ..$ paragraph: num [1:10792] 1 1 1 1 2 2 2 2 3 3 ...
-      ..$ doc_id   : int [1:10792] 1 2 3 4 5 6 7 8 9 10 ...
+     $ token   : tibble [287,011 × 10] (S3: tbl_df/tbl/data.frame)
+      ..$ doc_id       : int [1:287011] 1 1 1 1 1 1 1 1 1 1 ...
+      ..$ sid          : int [1:287011] 1 1 1 1 1 1 1 1 1 2 ...
+      ..$ tid          : int [1:287011] 1 2 3 4 5 6 7 8 9 1 ...
+      ..$ token        : chr [1:287011] "Amherst" "College" "DUrING" "ITS" ...
+      ..$ token_with_ws: chr [1:287011] "Amherst " "College " "DUrING " "ITS " ...
+      ..$ lemma        : chr [1:287011] "Amherst" "College" "during" "its" ...
+      ..$ upos         : chr [1:287011] "PROPN" "PROPN" "ADP" "PRON" ...
+      ..$ xpos         : chr [1:287011] "NNP" "NNP" "IN" "PRP$" ...
+      ..$ tid_source   : int [1:287011] 2 0 2 7 7 7 3 2 8 3 ...
+      ..$ relation     : chr [1:287011] "compound" "root" "prep" "poss" ...
+     $ entity  : tibble [20,982 × 6] (S3: tbl_df/tbl/data.frame)
+      ..$ doc_id     : int [1:20982] 1 1 1 2 3 4 6 6 7 8 ...
+      ..$ sid        : int [1:20982] 1 1 2 1 1 1 1 1 1 1 ...
+      ..$ tid        : int [1:20982] 1 4 1 2 5 4 1 3 1 1 ...
+      ..$ tid_end    : int [1:20982] 2 7 3 4 5 8 1 3 3 1 ...
+      ..$ entity_type: chr [1:20982] "ORG" "DATE" "DATE" "PERSON" ...
+      ..$ entity     : chr [1:20982] "Amherst College" "ITS FIRST HALF CENTURY" "1821-1871" "W. S. TYLER" ...
+     $ document: tibble [30,049 × 3] (S3: tbl_df/tbl/data.frame)
+      ..$ chapter  : chr [1:30049] "00" "00" "00" "00" ...
+      ..$ paragraph: num [1:30049] 1 1 1 1 2 2 2 2 3 3 ...
+      ..$ doc_id   : int [1:30049] 1 2 3 4 5 6 7 8 9 10 ...
      - attr(*, "class")= chr [1:2] "cnlp_annotation" "list"
 
 ``` r
@@ -91,17 +92,17 @@ mosaic::tally(~ entity$entity_type, data = history_anno)
 
     entity$entity_type
        CARDINAL        DATE       EVENT         FAC         GPE    LANGUAGE 
-            766        1430          10          46         933          26 
+           2764        4327          24         170        2318          56 
             LAW         LOC       MONEY        NORP     ORDINAL         ORG 
-             19         150         158         313         284        1633 
+             38         342         388         847         624        3934 
         PERCENT      PERSON     PRODUCT    QUANTITY        TIME WORK_OF_ART 
-              3        1714          20          17         107          61 
+              8        4581          92          44         269         156 
 
 ``` r
 glimpse(history_subtitles)
 ```
 
-    Rows: 636
+    Rows: 611
     Columns: 3
     $ chapter     <chr> "00", "00", "00", "00", "01", "01", "01", "01", "01", "01"…
     $ page_number <int> NA, NA, NA, NA, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25…
@@ -139,12 +140,12 @@ history_anno$entity |>
     # Groups:   entity [6]
       entity        n
       <chr>     <int>
-    1 Humphrey     91
-    2 Moore        53
-    3 Dickinson    30
-    4 Hitchcock    25
-    5 Williams     25
-    6 Webster      21
+    1 Humphrey    165
+    2 Hitchcock   160
+    3 Moore        67
+    4 Fiske        60
+    5 Stearns      58
+    6 Library      51
 
 The above table shows us the 6 most common names in the book. Some
 familiar ones immediately pop out, such as Hitchcock, the eponym of the
@@ -163,21 +164,21 @@ history_anno$token |>
     # Groups:   token [6]
       token        n
       <chr>    <int>
-    1 students   257
-    2 time       251
-    3 years      206
-    4 dollars    174
-    5 year       144
-    6 meeting    138
+    1 years      703
+    2 time       614
+    3 students   518
+    4 year       392
+    5 dollars    380
+    6 class      329
 
 The above table displays the 6 most common nouns in the text.
 Unsurprisingly, we see “students” as the most common noun.
 
 ## Notes
 
-- The index was not included in the text in the package
-- Footnotes were moved into the text where referenced (e.g.,
-  `[This is a footnote.]`)
-- Erratum on page 671 states:
-  `On page 290, line 20, for Humphrey read Hitchcock`. This change has
-  been noted in the text.
+-   The index was not included in the text in the package
+-   Footnotes were moved into the text where referenced (e.g.,
+    `[This is a footnote.]`)
+-   Erratum on page 671 states:
+    `On page 290, line 20, for Humphrey read Hitchcock`. This change has
+    been noted in the text.
