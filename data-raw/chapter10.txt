@@ -906,7 +906,8 @@ The room was crowded from day to day with anxious listeners.
  
 AMUSING INCIDENTS. 147  
  
-Were we to live or die ? Were we to have a charter, or to be  
+Were we to live or 
+die ? Were we to have a charter, or to be  
 forever shut out from the sisterhood of Colleges? That was  
 the question, and it caused many sleepless nights in Amherst.  
 Whatever might be the result, we cheerfully acknowledged that  

@@ -10,6 +10,7 @@ process_chapter <- function(filename) {
     mutate(
       chapter = str_extract(filename, "\\d+"),
       paragraph = cumsum(text == "") + 1,
+      page_num = NA
     )
   # return the processed text
   return(history_text)
@@ -21,8 +22,46 @@ history_text <-
   chapters |>
   purrr::map_dfr(process_chapter)
 
-# add page numbers here? AR + TK
-                 
+load("data/history_subtitles.rda") 
+history_updated <- history_subtitles |>
+  mutate(
+    first_line = ifelse(
+      stringr::str_detect(first_line, "- *$"),
+      stringr::str_replace(first_line, "[A-Za-z]*- *$", ""),
+      first_line
+    ),
+    first_line = stringr::str_trim(
+      stringr::str_replace_all(first_line, "^[,A-Za-z\\.]*", " ")
+    )
+  )
+
+for (i in 1:nrow(history_updated)) {
+  if (history_updated$first_line[i] == "") {
+    print(history_updated$first_line[i])
+    print(history_updated$page_number[i])
+    print(sum(results))
+    print("skipping")
+    next()
+  } 
+  results <- stringr::str_detect(history_text$text, history_updated$first_line[i])
+  if (sum(results) < 1) {
+    print(history_updated$first_line[i])
+    print(history_updated$page_number[i])
+    print(sum(results))
+    print("proceeding...")
+  }
+  if (sum(results) > 1) {
+    print(history_updated$first_line[i])
+    print(history_updated$page_number[i])
+    print(sum(results))
+    print("proceeding!")
+  } else {
+    line_page_starts <- which(results)
+    history_text$page_num[line_page_starts] <- history_updated$page_number[i]
+  }
+}
+
+
 usethis::use_data(history_text, overwrite = TRUE)
 
 

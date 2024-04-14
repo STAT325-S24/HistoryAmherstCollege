@@ -1,7 +1,7 @@
 ---
 author: "Adam, Frankie, edits by Nicholas Horton (nhorton@amherst.edu)"
 title: "Wrangling Page Breaks & Subtitles"
-date: "2024-04-11"
+date: "2024-04-14"
 date-format: iso
 format: pdf
 ---
