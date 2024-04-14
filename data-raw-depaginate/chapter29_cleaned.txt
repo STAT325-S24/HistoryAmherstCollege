@@ -5,12 +5,12 @@ A.
  
 NAMES, RESIDENCE AND AMOUNT OF THE ORIGINAL SUBSCRIP-  
 TION TO THE CHARITY FUND OF AMHERST COLLEGE,  
-[Table: Donors_AppA, Page 649]
-[Table: Donors_AppA, Page 649]
-[Table: Donors_AppA, Page 649]
-[Table: Donors_AppA, Page 649]
-[Table: Donors_AppA, Page 649]
-[Table: Donors_AppA, Page 649] GUARANTY BOND  
+Table: Donors AppA, Page 649 first page
+Table: Donors AppA, Page 649 second page
+Table: Donors AppA, Page 649 third page
+Table: Donors AppA, Page 649 fourth page
+Table: Donors AppA, Page 649 fifth page
+Table: Donors AppA, Page 649 GUARANTY BOND  
  
 Signed by the above nine citizens of Amherst, binding themselves jointly and sever-  
 ally to the payment of the above sum of fifteen thousand dollars in order to make  
@@ -43,8 +43,8 @@ CALVIN MERRILL, JARIB WHITE, H. WRIGHT STRONG, SAMUEL F. DICKINSON,
 JOSEPH CHURCH, JUN.}
   
 A true copy Attest, 	R. GRAVES, Financier.  
-[Table: Bond_List, Page 655] 
- [Table: Bond_List, Page 655] 
+Table: Bond List, Page 655 first page
+Table: Bond List, Page 655 second page
 B.  SUBSCRIPTION FOR THE COLLEGIATE CHARITY INSTITUTION IN  AMHERST, MASS.  
  
 [COMMONLY CALLED THE THIRTY THOUSAND DOLLAR SUBSCRIPTION.]  
@@ -96,7 +96,7 @@ lieving it to be more blessed to give than to receive, and hoping hereby to adva
 the honor of our Redeemer and the best interests of man, we cheerfully subscribe.  
  
 [Table: Sample_Table, Page 657]
-[Table: Sample_Table, Page 657]
+Table: Sample Table, Page 657
  
 The entire subscription is not copied in all these towns. But a fair specimen is  
 given. In Sherburne, the subscribers seem to have paid in advance and discounted  
@@ -108,7 +108,7 @@ IN THE ABOVE SUBSCRIPTION BOOK.
  
 MARSHFIELD, January 17, 1826.  
  
-SIE I send you in behalf of our Mite Society the sum of six dollars, being due  
+SIR I send you in behalf of our Mite Society the sum of six dollars, being due  
 in 1825. May the Lord bless and prosper your Institution is the desire of  
  
 SALLY AMES, Secretary.  
@@ -124,17 +124,17 @@ not exceeding one dollar a year.
  
 J. E. TRASK,  
  
-Amherst, October 8, 1824. NATHAKIEL SMITH,  
+Amherst, October 8, 1824. NATHANIEL SMITH,  
  
 Attest, H. W. STRONG. JOHN FISKE.  
  
 SPECIMENS OF THE RIDICULE OF THIS SUBSCRIPTION BY THE ENEMIES OF  
 THE COLLEGE. (SEE PAGE 541.)  
  
-" On the [subscription] papers were found thirteen hundred and fifty-three sub-  
+"On the [subscription] papers were found thirteen hundred and fifty-three sub-  
 scribers, scattered over more than one hundred towns in Massachusetts, Connecticut  
 and New York. Included in this number were two hundred and six females, mostly  
-married women and infants ! There were many infants not females ; how many  
+married women and infants! There were many infants not females; how many  
 was not ascertained. There were five hundred and eighty-four subscriptions of one  
 dollar each. There were two hundred and three of twenty-five cents each ; fifty-  
 eight of fifty cents, many of twelve and a half cents, and some ten cents. One of two  
@@ -150,7 +150,7 @@ scription again became a fruitful theme of ridicule and scorn. 1 subjoin a speci
 men from the speech of Mr. Fuller of Boston, with the notes by which it was ac-  
 companied in the Appeal by the Trustees to the public. See p. 182.  
  
-" The thirty thousand dollar fund stood next in order of the Amherst Collegiate  
+"The thirty thousand dollar fund stood next in order of the Amherst Collegiate  
 Institution. That fund was made up in part by a subscription of married women  
 and minors, which was minus. One-half of it was utterly lost. The Committee  
 could not find it. Certificates were indeed brought forward declaring that the fund  
@@ -403,8 +403,7 @@ Worcester, April 2, 1823.
  
 The second paragraph of the above was circulated in Boston as a handbill, and  
 published in The Daily Advertiser, and in The Salem Gazette, just before the election.  
-E.  
-NIMROUD SLABS AND THEIR TRANSLATION.  
+E. NIMROUD SLABS AND THEIR TRANSLATION.  
  
 One of the most curious and unique books it the Library of Amherst College  
 bears the above title. It is mainly in manuscript. The remainder is made up of  

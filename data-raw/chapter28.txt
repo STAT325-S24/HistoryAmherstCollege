@@ -556,7 +556,7 @@ of comparison for future times :
  
 616 HISTORY OP AMHERST COLLEGE.  
  
-Table: Library_Numbers [Page 615]
+Table: Library_Numbers Page 615
  
 In estimating this last item, only about five hundred dollars  
 of Prof. Montague's salary is charged to the Library. The re-  
@@ -1043,13 +1043,13 @@ printed, is shorn of its most striking features.]
  
 STATISTICS OF THE HALF CENTURY. 627  
  
-[Table: Statistics_Related_To_Student_Count, Page 626] 
+Table: Statistics Related To Student Count, Page 626 first page
  
  
  
 628 HISTORY OF AMHERST COLLEGE.  
  
-[Table: Statistics_Related_To_Student_Count, Page 626]  
+Table: Statistics Related To Student Count, Page 626 second page
  
 SOCIETIES.  
  
