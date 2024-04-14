@@ -486,7 +486,7 @@ interesting to some of our readers, and may furnish a standard
 of comparison for future times :
 
 [Table: Library_Numbers, Page 615]
-[Table: Library_Numbers, Page 615]
+Table: Library_Numbers [Page 615]
 
 In estimating this last item, only about five hundred dollars
 of Prof. Montague's salary is charged to the Library. The remainder
@@ -604,7 +604,8 @@ It would not do to apply to them again so soon. Of course, the
 College must appropriate a little to the several departments in
 order to keep things in repair. The problem was, how with
 that little (which for this department did not, for a considerable
-time, exceed twenty-five dollars a year), how with that
+time, exceed twenty-five dollars a
+year), how with that
 small sum, to preserve the apparatus in a decent condition in
 spite of wear and accident, and also to make occasional additions
 and improvements.
@@ -653,8 +654,8 @@ not large enough to accommodate, nor the resources of the department
 sufficient to purchase."
 
 The history of the " Natural History Cabinets " for the first
-' forty years and more occupies thirty pages of Dr. Hitchcock's
-" Reminiscences of Amherst College." It is the most fascinating
+'forty years and more occupies thirty pages of Dr. Hitchcock's
+"Reminiscences of Amherst College." It is the most fascinating
 portion of the book, and one of the most charming specimens
 of autobiography blended with history that can be found in
 modern literature. How the nucleus was formed by the unipn
@@ -763,7 +764,7 @@ The following brief history of- the origin and progress of the
 Shepard Cabinet, and the means and processes of its growth, has
 been furnished at my request by the Professor himself:
 
-" My Mineralogical Cabinet was commenced at the age of fifteen,
+"My Mineralogical Cabinet was commenced at the age of fifteen,
 while a member of the Providence Grammar School ; and
 was brought with me when I left Brown University to join the
 Sophomore Class, of Amherst Institution, in 1821. An early
@@ -818,7 +819,7 @@ never been my aim in these acquisitions. I have rather sought
 what was characteristic and instructive, not however to the neglect
 of the rare and beautiful.
 
-" Thus far I have had the mineralogical collection in mind in
+"Thus far I have had the mineralogical collection in mind in
 this narrative of its origin and growth. It may be added that the
 augmentation of my Geological Cabinet has for the last twenty
 years kept pace with that of my minerals. That is especially
@@ -833,7 +834,7 @@ Mastodons and a profusion of fossil fish teeth, the result
 of uncommon opportunities for collecting afforded through a
 long residence of myself and son in South Carolina.
 
-" Of the meteoric collection, now the fourth in extent and value
+"Of the meteoric collection, now the fourth in extent and value
 known, it may be observed that its formation commenced in
 1828, in my examination and analysis of the Richmond meteorite
 ; and it is wanting in very few authentic localities belonging
@@ -844,7 +845,7 @@ the material thus acquired have been advantageously employed
 in exchanges with foreign cabinets for the supply of distant
 localities in no other way obtainable.
 
-" The removal of these collections from New Haven to Amherst
+"The removal of these collections from New Haven to Amherst
 in 1847 was the result of an understanding entered into between
 President Hitchcock and myself, that if the College would
 cause a fire-proof building to be erected for their reception, I
@@ -890,7 +891,7 @@ now it averages about three dollars and fifty cents in clubs and
 about five dollars in families. Then wood was from one dollar
 and fifty cents to two dollars a cord, and washing " from twelve
 to 'twenty cents a week;" now wood is from six dollars and
-fifty cents to nine dollars a cord ; and washing from fifty to seventy-
+fifty cents to nine dollars a cord; and washing from fifty to seventy-
 five cents a dozen. The expenses which students impose
 upon themselves for Societies, Class-day and Commencement,
 music, boating, and amusements have risen in far greater proportion.

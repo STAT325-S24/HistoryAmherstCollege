@@ -106,8 +106,8 @@ In the evening after the inauguration the students expressed
 their good will to the new President and their expectation of a  
 prosperous and happy presidency by an illumination of the Col-  
 lege edifices. " Welcome to President Stearns " was blazoned in  
-letters of brilliant light across the entire front of Middle (now  
-North) and South Colleges, and as he stood in front of the  
+letters of brilliant light across the entire front of Middle 
+(now  North) and South Colleges, and as he stood in front of the  
 Octagonal Cabinet, admiring the brilliant spectacle, they gath-  
 ered spontaneously around him, extemporized an address of wel-  
 come through a member of the Senior class, and drew from him  
@@ -174,7 +174,7 @@ the purpose of the donations and thus illustrating this portion
 of our history :  
  
 [Table: Principal_Donation, Page 392]
-[Table: Principal_Donation, Page 392]
+Table: Principal_Donation [Page 392]
  
 [Note: * Estimated at $12,000 by the curator (Prof. E. Hitchcock,) but about $4,000 was  
 paid out of State grants already mentioned out of the College treasury. Among  
@@ -499,8 +499,8 @@ tus and ornamenting the grounds. And at his death, in 1869,
 he left in his will a legacy of five thousand dollars, the income  
 of which is to be annually expended for similar purposes.  
  
-The principal of the Walker building fund (one hundred  
-thousand dollars) was filled up in 1864. At a special meeting  
+The principal of the Walker building fund (one hundred thousand dollars)
+was filled up in 1864. At a special meeting  
 of the Trustees in November, 1866, they appointed a Building  
 Committee of their own number. This committee consisted of  
 President Stearns, Hon. Samuel Williston, Hon. Alpheus Hardy,  
@@ -580,9 +580,9 @@ presentation of his well-considered views on the education de-
 manded by the times, which, notwithstanding the floods of rain  
 that had drowned out the procession, was heard with great in-  
 terest by a highly respectable audience, and which, with the  
-endorsement of the Trustees as " sound and able," has been given  
+endorsement of the Trustees as "sound and able," has been given  
 to the public. The programme of exercises in Walker Hall was  
-cut short by " darkening clouds and premature evening." But  
+cut short by "darkening clouds and premature evening." But  
 the interesting statements chiefly historical, by Mr. Dickinson  
 and Prof. Snell, and the appropriate and felicitous remarks of  
 Prof. Roswell D. Hitchcock of the Union Theological Seminary,  
@@ -1896,8 +1896,8 @@ one a lawyer and one a physician.
 With the trifling exception of a choice between French and  
 German in the third term of Sophomore year, there were no op-  
 tional studies prior to the presidency of Dr. Stearns. In 1859-60,  
-" annuals " having now taken the place of the " Senior Examin-  
-ation " on the whole course, " elective studies in the several de-  
+"annuals" having now taken the place of the "Senior Examin-  
+ation" on the whole course, "elective studies in the several de-  
 partments " took the place of reviews preparatory to that exam-  
 ination in the third term of Senior year. Since that time they  
 have been introduced gradually into the studies of the Junior  
@@ -1980,8 +1980,8 @@ please, giving life to it and receiving life from it, in the one-
 ness of a many-membered University. It would leave Amherst  
 College the center of an inland educational community, with an  
 Agricultural College, a Williston Seminary, a Holyoke Seminary,  
-and a Ladies' College soon to be established (though at present  
-in separate organizations) round about it, capable itself of being  
+and a Ladies' College soon to be established
+(though at present in separate organizations) round about it, capable itself of being  
 developed in the direction of as many professional and other col-  
 lateral schools as the needs of the public may demand and the  
 munificence of the public will endow; but itself the old Col-  
@@ -2066,12 +2066,12 @@ reputation of the great and good men we have educated, sayirg
 to them as the aged Phoenix did to the godlike Achilles :  
  
 " All illustrious as thou art I made thee such ; "  
-Kal GS roaovrov tdqxa faoig ertieuttX XX '  
+[Greek text translation]
  
 yet we must be allowed to cherish a little preference for the  
 children of our riper years, especially our youngest ; even as the  
-Germans, however large their families become, always say : " das  
-neueste, das beste " the last is the best.  
+Germans, however large their families become, always say: "das  
+neueste, das beste"---the last is the best.  
  
 But this administration has not yet come to a close. Long  
 may it be before its history can be fully written. Long may  
