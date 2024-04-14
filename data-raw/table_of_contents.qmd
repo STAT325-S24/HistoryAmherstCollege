@@ -36,11 +36,11 @@ fix_up_lines <- function(line) {
 ```
 
 ```{r}
-  history_toc <- readLines("./toc.txt")|>
-    as_tibble() |>
-    mutate(
-      line = fix_up_lines(value)
-    ) |>
+history_toc <- readLines("toc.txt")|>
+  as_tibble() |>
+  mutate(
+    line = fix_up_lines(value)
+  ) |>
   filter(
     str_detect(line, "^r") == FALSE, 
     str_detect(value, "^CHAP") == FALSE,
@@ -50,14 +50,17 @@ fix_up_lines <- function(line) {
    ) |>
   select(line) |>
   mutate(
-    page_number = str_match(line, "\\d+$"),
+    page_number = readr::parse_number(
+      str_extract(line, "\\d+$")
+    ),
     chapter = row_number()
   )|>
-  rename("title" = line) 
+  rename("title" = line)
   
-  history_toc
-    
-  usethis::use_data(history_toc, overwrite = TRUE)
-
-
+history_toc
+```
+  
+  
+```{r}
+usethis::use_data(history_toc, overwrite = TRUE)
 ```
