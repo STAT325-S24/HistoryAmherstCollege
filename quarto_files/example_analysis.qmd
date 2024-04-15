@@ -20,6 +20,11 @@ library(HistoryAmherstCollege)
 The following is a glimpse of the package's dataframes along with a sample analysis using Named Entity Recognition (thanks to the `cleanNLP` package).
 
 ```{r}
+#| eval: false
+devtools::install_github("STAT325-S24/HistoryAmherstCollege")
+```
+
+```{r}
 packageVersion("HistoryAmherstCollege")
 glimpse(history_text)
 mosaic::tally(~ chapter, data = history_text)

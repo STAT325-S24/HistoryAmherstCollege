@@ -19,7 +19,7 @@ See [here](https://github.com/STAT325-S24/HistoryAmherstCollege) for the raw tex
 The [Book Info Tab](book_info.qmd) gives more information about the publication of the book.
 
 # Explore the text
-Use the [Example Text Tab](example_text.qmd) to see some examples of the cleaned text as well as an example of the Table of Contents.
+Use the [Example Text Tab](example_text.qmd) to see some examples of the cleaned text.
 
 # Sample Analysis
 Use the [Example Analysis Tab](example_analysis.qmd) to explore a sample analysis of the book. 
