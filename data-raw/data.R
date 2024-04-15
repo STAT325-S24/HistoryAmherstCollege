@@ -1,3 +1,7 @@
+# be sure to run 01_processing_pages.qmd, 02_dehyphenate.qmd,
+# and 04_processing_subtitles.qmd before running this script
+# Nicholas Horton 2024-04-15
+
 library(tidyverse)
 library(cleanNLP)
 
@@ -75,6 +79,6 @@ py_config()
 # install_python(version = "3.11.8")
 reticulate::import("cleannlp") 
 cnlp_init_spacy(model_name="en_core_web_sm")
-history_anno <- cnlp_annotate(history_text) # may need to rename things
+history_anno <- cnlp_annotate(history_text) 
 
 usethis::use_data(history_anno, overwrite = TRUE)
