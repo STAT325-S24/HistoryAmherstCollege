@@ -60,7 +60,8 @@ history_anno$entity |>
   head(6)
 ```
 
-The above table shows us the 6 most common names in the book.  Some familiar ones immediately pop out, such as Hitchcock, the eponym of the "Hitchcock Residence Hall."
+The above table shows us the 6 most common names in the book.
+Some familiar ones immediately pop out, such as Hitchcock, the eponym of the "Hitchcock Residence Hall" and a founding member of the American Statistical Association.
 
 ```{r}
 history_anno$token |>
@@ -71,7 +72,7 @@ history_anno$token |>
   head(6)
 ```
 
-The above table displays the 6 most common nouns in the text.  Unsurprisingly, we see "students" as the most common noun.
+The above table displays the 6 most common nouns in the text.
 
 ## Notes
 
