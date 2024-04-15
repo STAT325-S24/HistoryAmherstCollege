@@ -13,6 +13,7 @@ This website provides the text and analysis of William Seymour Tyler's _History 
 
 Click [here](https://archive.org/details/historyofamherst00tyleiala) to see the book in a variety of formats.
 As part of this project, we processed the scanned-in text version of book to create a more clean and organized form that is available as an [R package](data_package.qmd).
+See [here](https://github.com/STAT325-S24/HistoryAmherstCollege) for the raw text and routines to process it.
 
 The [Book Info Tab](book_info.qmd) gives more information about the publication of the book.
 
@@ -22,6 +23,7 @@ Use the [Example Text Tab](example_text.qmd) to see some examples of the cleaned
 # Sample Analysis
 Use the [Example Analysis Tab](example_analysis.qmd) to explore a sample analysis of the book. 
 
+# Amherst College
 More information about Amherst College can be found [here](https://amherst.edu).
 
 Last updated 2024-04-14.

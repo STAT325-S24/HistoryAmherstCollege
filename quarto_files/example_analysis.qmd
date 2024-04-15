@@ -8,6 +8,7 @@ title-block-banner: true
 
 ```{r, include = FALSE}
 library(dplyr)
+library(mosaic)
 #devtools::install_github("STAT325-S24/HistoryAmherstCollege")
 library(HistoryAmherstCollege)
 ```
@@ -51,5 +52,4 @@ history_anno$token |>
 ```
 
 The above table displays the 6 most common nouns in the text.
-Unsurprisingly, we see "students" as the most common noun.
 
