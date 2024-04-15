@@ -12,6 +12,8 @@ website:
          text: Book info
       -  href: example_text.qmd
          text: Example text
+      -  href: example_analysis.qmd
+         text: Example analysis
       -  href: data_package.qmd
          text: Data package
     

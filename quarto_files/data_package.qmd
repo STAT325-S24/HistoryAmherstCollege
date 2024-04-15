@@ -7,6 +7,7 @@ title-block-banner: true
 
 
 The book is available as a data package in R.
+The package includes the text, figured, tables, table of contents, and entity annotations of the text.
 
 Installation instructions:
 
@@ -16,4 +17,4 @@ devtools::install_github("STAT325-S24/HistoryAmherstCollege")
 library(HistoryAmherstCollege)
 ```
 
-Location of data package: https://https://github.com/STAT325-S24/HistoryAmherstCollege
+Location of data package and source files: [https://https://github.com/STAT325-S24/HistoryAmherstCollege](https://https://github.com/STAT325-S24/HistoryAmherstCollege)

@@ -6,4 +6,50 @@ title-block-banner: true
 
 
 
-This data is XX.
+```{r, include = FALSE}
+library(dplyr)
+#devtools::install_github("STAT325-S24/HistoryAmherstCollege")
+library(HistoryAmherstCollege)
+```
+
+
+
+## Example analyses
+
+The following is a glimpse of the package's dataframes along with a sample analysis using Named Entity Recognition (thanks to the `cleanNLP` package).
+
+```{r}
+packageVersion("HistoryAmherstCollege")
+glimpse(history_text)
+mosaic::tally(~ chapter, data = history_text)
+glimpse(history_anno)
+mosaic::tally(~ entity$entity_type, data = history_anno)
+glimpse(history_subtitles)
+glimpse(history_tables)
+glimpse(history_figures)
+```
+
+```{r}
+history_anno$entity |>
+  filter(entity_type == "PERSON") |>
+  group_by(entity) |>
+  count() |>
+  arrange(desc(n)) |>
+  head(6)
+```
+
+The above table shows us the 6 most common names in the book.
+Some familiar ones immediately pop out, such as Hitchcock, the eponym of the "Hitchcock Residence Hall" and one of the founding members of the American Statistical Association.
+
+```{r}
+history_anno$token |>
+  filter(upos == "NOUN") |>
+  group_by(token) |>
+  count() |>
+  arrange(desc(n)) |>
+  head(6)
+```
+
+The above table displays the 6 most common nouns in the text.
+Unsurprisingly, we see "students" as the most common noun.
+

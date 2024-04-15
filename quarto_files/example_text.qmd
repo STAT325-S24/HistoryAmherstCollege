@@ -10,13 +10,6 @@ library(dplyr)
 library(HistoryAmherstCollege)
 ```
 
-Here is an listing of the first ten chapters in the Table of Contents:
-
-```{r, echo = FALSE}
-head(history_toc, 10) |>
-  select(chapter, page_number, title) |>
-  kableExtra::kable(booktabs = TRUE, col.names = c("Chapter", "Page Number", "Subtitle"))
-```
 
 The following is an example of the cleaned text that is available in the `HistoryAmherstCollege` package.
 The first part of Chapter 3 is shown below.
