@@ -32,6 +32,6 @@
     "href": "data_package.html",
     "title": "Data package in R",
     "section": "",
-    "text": "Installation instructions:\ndevtools::install_github(\"STAT325-S24/HistoryAmherstCollege\")\nlibrary(HistoryAmherstCollege)\nLocation of data package and source files: https://https://github.com/STAT325-S24/HistoryAmherstCollege"
+    "text": "Installation instructions:\ndevtools::install_github(\"STAT325-S24/HistoryAmherstCollege\")\nlibrary(HistoryAmherstCollege)\nLocation of data package and source files: https://github.com/STAT325-S24/HistoryAmherstCollege"
   }
 ]

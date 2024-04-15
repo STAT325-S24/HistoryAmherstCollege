@@ -17,4 +17,4 @@ devtools::install_github("STAT325-S24/HistoryAmherstCollege")
 library(HistoryAmherstCollege)
 ```
 
-Location of data package and source files: [https://https://github.com/STAT325-S24/HistoryAmherstCollege](https://https://github.com/STAT325-S24/HistoryAmherstCollege)
+Location of data package and source files: [https://github.com/STAT325-S24/HistoryAmherstCollege](https://github.com/STAT325-S24/HistoryAmherstCollege)
