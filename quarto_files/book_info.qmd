@@ -13,7 +13,7 @@ library(knitr)
 
 This website provides the curated text from the book entitled *History of Amherst College during the First Half Century* (1873) by William Seymour Tyler.
 
-See [here](httpe://archive.org/details/historyofamherst00tyleiala) for the scanned book in a variety of formats.
+See [here (Archive.org)](https://archive.org/details/historyofamherst00tyleiala) for the scanned book in a variety of formats.
 
 Our mission in STAT325 (Text Analytics) was to take the text file for this historic text and make it accessible more broadly.
 
