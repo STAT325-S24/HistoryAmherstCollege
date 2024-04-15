@@ -1,7 +1,7 @@
 Package: HistoryAmherstCollege
-Date: 2024-04-14
+Date: 2024-04-15
 Title: Text and Materials related to the History of Amherst College During Its First Half Century (1873) book by William Seymour Tyler
-Version: 0.9.1
+Version: 1.0
 Authors@R: 
     c(person(
       given = "Nicholas J.",

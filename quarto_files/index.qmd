@@ -9,7 +9,7 @@ format:
     
 ---
 # Background
-This website provides the text and analysis of William Seymour Tyler's _History of Amherst College during its first half century, 1821-1871_. 
+This website provides the text and analysis of William Seymour Tyler's 1873 book _History of Amherst College during its first half century, 1821-1871_. 
 
 Click [here (Archive.org)](https://archive.org/details/historyofamherst00tyleiala) to view the book in a variety of formats.
 
