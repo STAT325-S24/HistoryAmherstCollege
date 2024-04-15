@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "The History of Amherst College",
     "section": "",
-    "text": "Explore the text\nUse the Example Text Tab to see some examples of the cleaned text.\n\n\nSample Analysis\nUse the Example Analysis Tab to explore a sample analysis of the book.\n\n\n\nView from the North East\n\n\n\n\nAmherst College\nMore information about Amherst College can be found here.\nLast updated 2024-04-14."
+    "text": "Background\nThis website provides the text and analysis of William Seymour Tyler’s 1873 book History of Amherst College during its first half century, 1821-1871.\nClick here (Archive.org) to view the book in a variety of formats.\nAs part of this project from Amherst College’s STAT325 (Text Analytics) class, we processed the scanned-in text version of book to create a more clean and organized form that is available as an R package. See here for the raw text and routines to process it.\nThe Book Info Tab gives more information about the publication of the book.\n\n\nExplore the text\nUse the Example Text Tab to see some examples of the cleaned text.\n\n\nSample Analysis\nUse the Example Analysis Tab to explore a sample analysis of the book.\n\n\n\nView from the North East\n\n\n\n\nAmherst College\nMore information about Amherst College can be found here.\nLast updated 2024-04-15 by Nicholas Horton."
   },
   {
     "objectID": "example_analysis.html",
