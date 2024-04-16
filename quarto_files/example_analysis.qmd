@@ -7,8 +7,9 @@ title-block-banner: true
 
 
 ```{r, include = FALSE}
-library(dplyr)
+library(tidyverse)
 library(mosaic)
+library(knitr)
 #devtools::install_github("STAT325-S24/HistoryAmherstCollege")
 library(HistoryAmherstCollege)
 ```
@@ -44,8 +45,17 @@ history_anno$entity |>
   head(6)
 ```
 
-The above table shows us the 6 most common names in the book.
-Some familiar ones immediately pop out, such as Hitchcock, the eponym of the "Hitchcock Residence Hall" and one of the founding members of the American Statistical Association.
+The above table shows us the six most common names in the book.
+Some familiar ones immediately pop out, such as President Hitchcock, the eponym of the "Hitchcock Residence Hall" and one of the founding members of the American Statistical Association.
+
+Note that `sabbath` is incorrectly listed as a person:
+
+```{r}
+history_text |>
+  filter(str_detect(text, "Sabbath")) |>
+  select(-paragraph, -page_num) |> 
+  kable()
+```
 
 ```{r}
 history_anno$token |>
@@ -56,5 +66,5 @@ history_anno$token |>
   head(6)
 ```
 
-The above table displays the 6 most common nouns in the text.
+The above table displays the six most common nouns in the text.
 

@@ -280,14 +280,365 @@ $ caption &lt;chr&gt; "view_from_ne", "view_from_mt_pleasant", "ac_in_1821", "ze
 6 Sabbath      49</code></pre>
 </div>
 </div>
-<p>The above table shows us the 6 most common names in the book. Some familiar ones immediately pop out, such as Hitchcock, the eponym of the “Hitchcock Residence Hall” and one of the founding members of the American Statistical Association.</p>
+<p>The above table shows us the six most common names in the book. Some familiar ones immediately pop out, such as President Hitchcock, the eponym of the “Hitchcock Residence Hall” and one of the founding members of the American Statistical Association.</p>
+<p>Note that <code>sabbath</code> is incorrectly listed as a person:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>history_anno<span class="sc">$</span>token <span class="sc">|&gt;</span></span>
-<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(upos <span class="sc">==</span> <span class="st">"NOUN"</span>) <span class="sc">|&gt;</span></span>
-<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(token) <span class="sc">|&gt;</span></span>
-<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>() <span class="sc">|&gt;</span></span>
-<span id="cb20-5"><a href="#cb20-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(<span class="fu">desc</span>(n)) <span class="sc">|&gt;</span></span>
-<span id="cb20-6"><a href="#cb20-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">head</span>(<span class="dv">6</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>history_text <span class="sc">|&gt;</span></span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">str_detect</span>(text, <span class="st">"Sabbath"</span>)) <span class="sc">|&gt;</span></span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(<span class="sc">-</span>paragraph, <span class="sc">-</span>page_num) <span class="sc">|&gt;</span> </span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<table class="table table-sm table-striped small">
+<colgroup>
+<col style="width: 90%">
+<col style="width: 9%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">text</th>
+<th style="text-align: left;">chapter</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">the Faculty and students worshipped on the Sabbath with</td>
+<td style="text-align: left;">07</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">the first Sabbath-school in Amherst. And it may not be amiss to</td>
+<td style="text-align: left;">07</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">were most frequently superintendents of the village Sabbath-</td>
+<td style="text-align: left;">07</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sabbath-school in Amherst, and some of the good people of the</td>
+<td style="text-align: left;">08</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">one or more of the classes. He preached on the Sabbath, occasionally,</td>
+<td style="text-align: left;">10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sabbath to the congregation. He also sustained (from the first,</td>
+<td style="text-align: left;">10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">at the Sabbath morning prayer-meetings of the students,</td>
+<td style="text-align: left;">11</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">the Sabbath in the old parish meeting-house on the hill. I soon</td>
+<td style="text-align: left;">11</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">by the students, and there were increasing symptoms from Sabbath</td>
+<td style="text-align: left;">11</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">to Sabbath qf collision and disturbance. I accordingly told</td>
+<td style="text-align: left;">11</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sabbath worship. The subject of a new chapel came before the</td>
+<td style="text-align: left;">11</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sabbath, the chapel building contained originally four recitation</td>
+<td style="text-align: left;">11</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">College, and father cares so much as that for it. The next Sabbath</td>
+<td style="text-align: left;">11</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">every other Sabbath, and by the other clerical members of the</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Faculty in rotation on each alternate Sabbath ; and at their first</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">two hundred dollars, that is, five dollars a Sabbath, as the</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">was at length doubled, and since that time ten dollars a Sabbath</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">the public services of the Sabbath, were the religious lecture on</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">hour immediately preceding public worship Sabbath morning.</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">day seem like the Sabbath in its most strict observance. The</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">particularly those which were held Sabbath mornings at half</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">like a meeting at one of their houses Sabbath afternoon. The</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">time a meeting, with a Sabbath-school, was sustained during my</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The Holy Spirit was evidently present. Sabbath day</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">approaching Sabbath, July 6,” ” the pastor stated to the church</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">village Sabbath-school, were greatly useful in promoting it, if</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">at the Sabbath-school concert, and how the whole crowded assembly</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">every Sabbath, at Granby.”</td>
+<td style="text-align: left;">13</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">on the Sabbath ever since. The sacrament of the Lord’s supper</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sabbaths should be taken by the Professors, all of whom</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">sermons on the Sabbath were all that the Trustees required ;</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Thursday evening as the public exercises on the Sabbath. For</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Besides the regular ministrations of the Sabbath, we have had</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Saturday night, sometimes Sabbath morning immediately after</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">prayers, and sometimes Sabbath evening one hour before prayers.</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">between the hours of nine and ten o’clock Sabbath evening.</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">attend the Sabbath services, by visiting him in his harvest-field,</td>
+<td style="text-align: left;">16</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">whole community. ” On the first Sabbath of November the</td>
+<td style="text-align: left;">16</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">of wit. I remember well how his reproving eye one Sabbath</td>
+<td style="text-align: left;">16</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">either a teacher or superintendent of the Sabbath School.</td>
+<td style="text-align: left;">16</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">it the subject of private prayer on the Sabbath. Monday came,</td>
+<td style="text-align: left;">17</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">In addition to the faithful preaching on the Sabbath, the</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">in the Faculty, preached in rotation on the Sabbath, at the</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">others that attend public worship on the Sabbath at the College</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">An extra Sabbath evening prayer-meeting of all the classes was</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">preached the next Sabbath, March 10, the feeling increasing</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">dollars. He preached twenty-one Sabbaths, before receiving</td>
+<td style="text-align: left;">19</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">of their Sabbath School.</td>
+<td style="text-align: left;">19</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">of a pleasant Sabbath morning, as our young men and families</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">of the Sabbath, as other churches do, in a retired, consecrated</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sabbath home, from which all the studies and distractions of</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sabbath worship and service, but also of a professorship whose</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">His duties shall be to preach on the Sabbath such portion of the</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">the Sabbath, such assistance may be expected from other Professors</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">half of the time on the Sabbath, and to assist as heretofore in</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">as on the Sabbath to two or three hundred young men, and</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">The President preached in the College Chapel every other Sabbath,</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">and on the alternate Sabbaths the clerical Professors</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sabbath. But this was generally felt to be more suitable to</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Saturday evening a part of the Sabbath, according to Jewish</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">custom, and on Sabbath evening preparing the lesson for</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">and her daughters thus employed Sabbath evening. Under</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">under the fourth and left Sabbath evening free from secular</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">on the Sabbath, but more on Sunday, Tuesday and Thursday</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">As the College Chapel was undergoing repairs, the Sabbath</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">avoid too many required religious exercises on the Sabbath, and</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">” June 15, 1856, Sabbath evening, the pastor called a meeting</td>
+<td style="text-align: left;">21</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">teacher in the Sabbath school, both in Lowell and in Boston,</td>
+<td style="text-align: left;">22</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">up for temperance and the observance of the Sabbath, attended</td>
+<td style="text-align: left;">22</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">and Sabbath schools, and the use of other suitable means, were</td>
+<td style="text-align: left;">22</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">which they assembled for worship on the Sabbath without any</td>
+<td style="text-align: left;">22</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">After describing the sermon and the scene on that Sabbath</td>
+<td style="text-align: left;">22</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Congregational Church, his superintendence of a large Sabbath</td>
+<td style="text-align: left;">23</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conferences and Sabbath School Conventions, he is equally</td>
+<td style="text-align: left;">23</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sabbaths as the thirty-seventh candidate, he was ordained and</td>
+<td style="text-align: left;">24</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">a superintendent or teacher in the Sabbath School, it is the testimony</td>
+<td style="text-align: left;">24</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">that did business on the Sabbath, and he relinquished the tempting</td>
+<td style="text-align: left;">25</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">evening prayers and in the Sabbath services of the chapel.</td>
+<td style="text-align: left;">26</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">fitly introduce the services of the Sabbath and accompany the</td>
+<td style="text-align: left;">26</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">deacon of the Church, superintendent of the Sabbath</td>
+<td style="text-align: left;">28</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">a command which we deem sacred, ” Remember the Sabbath day to ketp it holy.” We</td>
+<td style="text-align: left;">29</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">and have seen and heard Mr.&nbsp;Otis, on the Sabbath as well as on other days.</td>
+<td style="text-align: left;">29</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a>history_anno<span class="sc">$</span>token <span class="sc">|&gt;</span></span>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(upos <span class="sc">==</span> <span class="st">"NOUN"</span>) <span class="sc">|&gt;</span></span>
+<span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(token) <span class="sc">|&gt;</span></span>
+<span id="cb21-4"><a href="#cb21-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>() <span class="sc">|&gt;</span></span>
+<span id="cb21-5"><a href="#cb21-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(<span class="fu">desc</span>(n)) <span class="sc">|&gt;</span></span>
+<span id="cb21-6"><a href="#cb21-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">head</span>(<span class="dv">6</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code># A tibble: 6 × 2
 # Groups:   token [6]
@@ -301,7 +652,7 @@ $ caption &lt;chr&gt; "view_from_ne", "view_from_mt_pleasant", "ac_in_1821", "ze
 6 class      329</code></pre>
 </div>
 </div>
-<p>The above table displays the 6 most common nouns in the text.</p>
+<p>The above table displays the six most common nouns in the text.</p>
 
 
 </section>

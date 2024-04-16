@@ -150,9 +150,11 @@ history_anno$entity |>
     6 Sabbath      49
 
 The above table shows us the 6 most common names in the book. Some
-familiar ones immediately pop out, such as Hitchcock, the eponym of the
-“Hitchcock Residence Hall” and a founding member of the American
-Statistical Association.
+familiar ones immediately pop out, such as President Hitchcock, the
+eponym of the “Hitchcock Residence Hall” and a founding member of the
+American Statistical Association.
+
+`sabbath` is listed incorrectly as a person.
 
 ``` r
 history_anno$token |>
