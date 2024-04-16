@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
   
 website: 
-  title: "The History of Amherst College (Tyler, 1873)"
+  title: "The History of Amherst College during its first fifty years (Tyler, 1873)"
   navbar:
     left: 
       -  href: index.qmd
